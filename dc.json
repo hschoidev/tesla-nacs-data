@@ -490,7 +490,7 @@
         "powerKilowattL": 3
     },
     "gangbuksupercharger": {
-        "type": "gangbuksupercharger",
+        "type": "destinationcharger",
         "statId": "gangbuksupercharger",
         "statNm": "서울 강북 - 안토",
         "bnm": "데스티네이션차저",
