@@ -293,9 +293,9 @@
         "stallCount": 2,
         "powerKilowattL": 6
     },
-    "dc0031": {
+    "dc27196": {
         "type": "destinationcharger",
-        "statId": "dc0031",
+        "statId": "dc27196",
         "statNm": "렉스필드 CC",
         "bnm": "데스티네이션차저",
         "lat": 37.401817,
@@ -491,7 +491,7 @@
     },
     "gangbuksupercharger": {
         "type": "gangbuksupercharger",
-        "statId": "dc0045",
+        "statId": "gangbuksupercharger",
         "statNm": "서울 강북 - 안토",
         "bnm": "데스티네이션차저",
         "lat": 37.66375,
