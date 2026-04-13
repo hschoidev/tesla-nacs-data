@@ -1,0 +1,372 @@
+{
+    "sc": {},
+    "dc": {},
+    "nacs": {
+        "BE241206": {
+            "statId": "BE241206",
+            "statNm": "강릉대관령휴게소 강릉방향",
+            "url": "https://map.naver.com/p/search/%EA%B0%95%EB%A6%89%EB%8C%80%EA%B4%80%EB%A0%B9%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EA%B0%95%EB%A6%89%EB%B0%A9%ED%96%A5?c=15.85,0,0,0,adh&p=mA546jVq7zgU35t1DfnnLg,127.22,-4.06,55.94,Float",
+            "surl": "https://naver.me/FP8syZ1Y"
+        },
+        "BE241207": {
+            "statId": "BE241207",
+            "statNm": "강릉대관령휴게소 인천방향",
+            "url": "https://map.naver.com/p/search/%EA%B0%95%EB%A6%89%EB%8C%80%EA%B4%80%EB%A0%B9%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%9D%B8%EC%B2%9C%EB%B0%A9%ED%96%A5?c=17.85,0,0,0,adh&p=VDPkrTqljBnUiy6wHEWBFg,-36.2,-5.53,80,Float",
+            "surl": "https://naver.me/xXnrKmxA"
+        },
+        "BE241208": {
+            "statId": "BE241208",
+            "statNm": "내린천휴게소 서울방향",
+            "url": "https://map.naver.com/p/search/%EB%82%B4%EB%A6%B0%EC%B2%9C%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%84%9C%EC%9A%B8%EB%B0%A9%ED%96%A5?c=17.77,0,0,0,adh&p=3p8Tm0czD8uQ9fUdDnuUVA,-97.8,-1.92,25,Float",
+            "surl": "https://naver.me/5bCX6HGg"
+        },
+        "BE241209": {
+            "statId": "BE241209",
+            "statNm": "내린천휴게소 양양방향",
+            "url": "https://map.naver.com/p/search/%EB%82%B4%EB%A6%B0%EC%B2%9C%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%96%91%EC%96%91%EB%B0%A9%ED%96%A5?c=15.89,0,0,0,adh&p=33EeORHUnkHkw87SnYfSuw,25.76,-14.33,80,Float",
+            "surl": "https://naver.me/5l2ZNNFB"
+        },
+        "BE241210": {
+            "statId": "BE241210",
+            "statNm": "문막휴게소 인천방향",
+            "url": "https://map.naver.com/p/search/%EB%AC%B8%EB%A7%89%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%9D%B8%EC%B2%9C%EB%B0%A9%ED%96%A5?c=17.15,0,0,0,adh&p=QeB_Xm7r75u96m9SuHIy3w,-98.8,-7.42,80,Float",
+            "surl": "https://naver.me/GRDOHaox"
+        },
+        "BE241211": {
+            "statId": "BE241211",
+            "statNm": "서여주휴게소 창원방향",
+            "url": "https://map.naver.com/p/search/%EC%84%9C%EC%97%AC%EC%A3%BC%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%B0%BD%EC%9B%90%EB%B0%A9%ED%96%A5?c=17.15,0,0,0,adh&p=zkA3d7NqMBGmhcV_88ppqA,-95.66,-4.94,55.94,Float",
+            "surl": "https://naver.me/5ajV2AXQ"
+        },
+        "BE241212": {
+            "statId": "BE241212",
+            "statNm": "여주휴게소 강릉방향",
+            "url": "https://map.naver.com/p/search/%EC%97%AC%EC%A3%BC%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EA%B0%95%EB%A6%89%EB%B0%A9%ED%96%A5?c=16.47,0,0,0,adh&p=PlqYz0HlpYatICngiod3Ww,133.1,-5.51,80,Float",
+            "surl": "https://naver.me/Ge7WkHVu"
+        },
+        "BE241213": {
+            "statId": "BE241213",
+            "statNm": "여주휴게소 인천방향",
+            "url": "https://map.naver.com/p/search/%EC%97%AC%EC%A3%BC%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%9D%B8%EC%B2%9C%EB%B0%A9%ED%96%A5?c=17.15,0,0,0,adh&p=7dy-udetnylRX4mBrsexCA,-12.32,-7.77,80,Float",
+            "surl": "https://naver.me/5OlnZM4G"
+        },
+        "BE241214": {
+            "statId": "BE241214",
+            "statNm": "옥계휴게소 속초방향",
+            "url": "https://map.naver.com/p/search/%EC%98%A5%EA%B3%84%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%86%8D%EC%B4%88%EB%B0%A9%ED%96%A5?c=16.74,0,0,0,adh&p=HcORYChlFUsOnZf6NJJMiw,101.82,-5.3,38.75,Float",
+            "surl": "https://naver.me/FWTJ1iQZ"
+        },
+        "BE241215": {
+            "statId": "BE241215",
+            "statNm": "용인휴게소 강릉방향",
+            "url": "https://map.naver.com/p/search/%EC%9A%A9%EC%9D%B8%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EA%B0%95%EB%A6%89%EB%B0%A9%ED%96%A5?c=16.48,0,0,0,adh&p=lleGcjkWgd8F-F-hEfhB9g,-103.57,-0.52,25,Float",
+            "surl": "https://naver.me/GB3fEn5w"
+        },
+        "BE241216": {
+            "statId": "BE241216",
+            "statNm": "용인휴게소 인천방향",
+            "url": "https://map.naver.com/p/search/%EC%9A%A9%EC%9D%B8%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%9D%B8%EC%B2%9C%EB%B0%A9%ED%96%A5?c=15.63,0,0,0,adh&p=dEQScKtB_LZYQ8pdA9K4JQ,77.69,-7.1,80,Float",
+            "surl": "https://naver.me/xSBce7ky"
+        },
+        "BE241217": {
+            "statId": "BE241217",
+            "statNm": "원주휴게소 춘천방향",
+            "url": "https://map.naver.com/p/search/%EC%9B%90%EC%A3%BC%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%B6%98%EC%B2%9C%EB%B0%A9%ED%96%A5?c=16.30,0,0,0,adh&p=GPdeCZyFSZhglKQ-x0QxCg,108.6,-12.6,80,Float",
+            "surl": "https://naver.me/GP2rYeed"
+        },
+        "BE241218": {
+            "statId": "BE241218",
+            "statNm": "평창휴게소 강릉방향",
+            "url": "https://map.naver.com/p/search/%ED%8F%89%EC%B0%BD%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EA%B0%95%EB%A6%89%EB%B0%A9%ED%96%A5?c=17.00,0,0,0,adh&p=ubsKxOnCh7HWmv3ga4LNEg,118.36,-5.31,38.75,Float",
+            "surl": "https://naver.me/F93QK5aP"
+        },
+        "BE241219": {
+            "statId": "BE241219",
+            "statNm": "홍천휴게소 서울방향",
+            "url": "https://map.naver.com/p/search/%ED%99%8D%EC%B2%9C%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%84%9C%EC%9A%B8%EB%B0%A9%ED%96%A5?c=16.30,0,0,0,adh&p=PPnW7gZObfTRIP-0UA0k-g,-20.61,-6.41,80,Float",
+            "surl": "https://naver.me/FriKEsvP"
+        },
+        "BE241220": {
+            "statId": "BE241220",
+            "statNm": "홍천휴게소 양양방향",
+            "url": "https://map.naver.com/p/search/%ED%99%8D%EC%B2%9C%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%84%9C%EC%9A%B8%EB%B0%A9%ED%96%A5?c=16.78,0,0,0,adh&p=l2zxutT55xYX12iLeMm_2Q,-155.71,-1.86,28.44,Float",
+            "surl": "https://naver.me/FCZbyECu"
+        },
+        "BE241221": {
+            "statId": "BE241221",
+            "statNm": "홍천강휴게소 춘천방향",
+            "url": "https://map.naver.com/p/search/%ED%99%8D%EC%B2%9C%EA%B0%95%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%B6%98%EC%B2%9C%EB%B0%A9%ED%96%A5?c=15.63,0,0,0,adh&p=1LNjW_pq75Ks2LQUVsrcvg,11.55,-7.75,80,Float",
+            "surl": "https://naver.me/xF4pfY6w"
+        },
+        "BE241222": {
+            "statId": "BE241222",
+            "statNm": "횡성휴게소 강릉방향",
+            "url": "https://map.naver.com/p/search/%ED%9A%A1%EC%84%B1%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EA%B0%95%EB%A6%89%EB%B0%A9%ED%96%A5?c=15.67,0,0,0,adh&p=AnBM7GGkMn98-tqcP3lx9g,33.66,0.76,38.75,Float",
+            "surl": "https://naver.me/5Yo1KZ4t"
+        },
+        "BE241223": {
+            "statId": "BE241223",
+            "statNm": "괴산휴게소 창원방향",
+            "url": "https://map.naver.com/p/search/%EA%B4%B4%EC%82%B0%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%96%91%ED%8F%89%20?c=16.74,0,0,0,adh&p=JFoA0yaFWjJtXix28-Le-w,-134.4,-1.69,38.75,Float",
+            "surl": "https://naver.me/xnOKXjKa"
+        },
+        "BE241224": {
+            "statId": "BE241224",
+            "statNm": "문경휴게소 양평방향",
+            "url": "https://map.naver.com/p/search/%EB%AC%B8%EA%B2%BD%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%96%91%ED%8F%89%EB%B0%A9%ED%96%A5?c=15.63,0,0,0,adh&p=ev4GOvCAEB8UuFA2VCT2ag,101.88,-5.14,80,Float",
+            "surl": "https://naver.me/F2Lv9VSy"
+        },
+        "BE241225": {
+            "statId": "BE241225",
+            "statNm": "문경휴게소 창원방향",
+            "url": "https://map.naver.com/p/search/%EB%AC%B8%EA%B2%BD%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%96%91%ED%8F%89%EB%B0%A9%ED%96%A5?c=15.63,0,0,0,adh&p=aN7zZ9WPVl-ckyGFYNTbaA,-115.06,-11.8,80,Float",
+            "surl": "https://naver.me/5mvYCstQ"
+        },
+        "BE241226": {
+            "statId": "BE241226",
+            "statNm": "선산휴게소 양평방향",
+            "url": "https://map.naver.com/p/search/%EC%84%A0%EC%82%B0%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%96%91%ED%8F%89%EB%B0%A9%ED%96%A5?c=15.63,0,0,0,adh&p=vzwI_04fejZIr6plPp2fHA,104.83,-4.2,55.94,Float",
+            "surl": "https://naver.me/5PWSjGIl"
+        },
+        "BE241227": {
+            "statId": "BE241227",
+            "statNm": "천등산휴게소 제천방향",
+            "url": "https://map.naver.com/p/search/%EC%B2%9C%EB%93%B1%EC%82%B0%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%A0%9C%EC%B2%9C%EB%B0%A9%ED%96%A5/place/36949489?c=15.00,0,0,0,adh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604131343&locale=ko&svcName=map_pcv5&searchText=%EC%B2%9C%EB%93%B1%EC%82%B0%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%A0%9C%EC%B2%9C%EB%B0%A9%ED%96%A5&p=3Qu83j5YZOrjDLQNBzgWRw,178.38,-4.39,55.94,Float",
+            "surl": "https://naver.me/FBMwIuAb"
+        },
+        "BE241228": {
+            "statId": "BE241228",
+            "statNm": "천등산휴게소 평택방향",
+            "url": "https://map.naver.com/p/search/%EC%B2%9C%EB%93%B1%EC%82%B0%ED%9C%B4%EA%B2%8C%EC%86%8C%20%ED%8F%89%ED%83%9D?c=16.92,0,0,0,adh&p=9WSQHQMhQs-D9NZnkOMmyg,-26.87,-4.12,80,Float",
+            "surl": "https://naver.me/FRoD8pup"
+        },
+        "BE241229": {
+            "statId": "BE241229",
+            "statNm": "충주휴게소 양평방향",
+            "url": "https://map.naver.com/p/search/%EC%B6%A9%EC%A3%BC%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%96%91%ED%8F%89%EB%B0%A9%ED%96%A5?c=15.00,0,0,0,adh&p=MDeeUywhDToxkQ0waFoWJw,38.9,-8.46,80,Float",
+            "surl": "https://naver.me/5IfFNMHZ"
+        },
+        "BE241230": {
+            "statId": "BE241230",
+            "statNm": "군위휴게소 부산방향",
+            "url": "https://map.naver.com/p/search/%EA%B5%B0%EC%9C%84%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%B6%80%EC%82%B0%EB%B0%A9%ED%96%A5?c=15.00,0,0,0,adh&p=2v6ybpxdANzteOSX0hf2bA,-79.49,-6.47,55.94,Float",
+            "surl": "https://naver.me/FiPL8Crj"
+        },
+        "BE241231": {
+            "statId": "BE241231",
+            "statNm": "남성주참외휴게소 양평방향",
+            "url": "https://map.naver.com/p/search/%EB%82%A8%EC%84%B1%EC%A3%BC%EC%B0%B8%EC%99%B8%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%96%91%ED%8F%89%EB%B0%A9%ED%96%A5?c=15.00,0,0,0,adh&p=-NvXvUOKblno21B9K3xJLw,106.92,-7.31,80,Float",
+            "surl": "https://naver.me/GJZrWjhX"
+        },
+        "BE241232": {
+            "statId": "BE241232",
+            "statNm": "안동휴게소 부산방향",
+            "url": "https://map.naver.com/p/search/%EC%95%88%EB%8F%99%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%B6%80%EC%82%B0%EB%B0%A9%ED%96%A5?c=15.00,0,0,0,adh&p=ZDbo1wVA5g13KFRDO9O3FA,-68.24,-3.14,80,Float",
+            "surl": "https://naver.me/GO6uksUQ"
+        },
+        "BE241233": {
+            "statId": "BE241233",
+            "statNm": "영천휴게소 대구방향",
+            "url": "https://map.naver.com/p/search/%EC%98%81%EC%B2%9C%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%8C%80%EA%B5%AC%EB%B0%A9%ED%96%A5?c=15.93,0,0,0,adh&p=sjRS_bnW7trS6qAs_0BsoQ,15.9,-3.72,80,Float",
+            "surl": "https://naver.me/xhPH07cG"
+        },
+        "BE241234": {
+            "statId": "BE241234",
+            "statNm": "의성휴게소 청주방향",
+            "url": "https://map.naver.com/p/entry/place/245636824?c=15.63,0,0,0,adh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604131350&locale=ko&svcName=map_pcv5&p=ufRFJlVMkHWSVtupgpTI6g,-10.32,-2.56,55.94,Float",
+            "surl": "https://naver.me/x2YP74LY"
+        },
+        "BE241235": {
+            "statId": "BE241235",
+            "statNm": "청통휴게소 대구방향",
+            "url": "https://map.naver.com/p/search/%EC%B2%AD%ED%86%B5%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%8C%80%EA%B5%AC%EB%B0%A9%ED%96%A5?c=15.00,0,0,0,adh&p=srbE43gWcs7Zcs8bOYqzbg,-66.86,-6.39,80,Float",
+            "surl": "https://naver.me/GfraqUAX"
+        },
+        "BE241236": {
+            "statId": "BE241236",
+            "statNm": "칠곡휴게소 서울방향",
+            "url": "https://map.naver.com/p/search/%EC%B9%A0%EA%B3%A1%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%84%9C%EC%9A%B8%EB%B0%A9%ED%96%A5?c=16.74,0,0,0,adh&p=SI8x3taDEOs71h-hDCzm_g,-176.76,-0.68,28.44,Float",
+            "surl": "https://naver.me/5yh4NIDP"
+        },
+        "BE241237": {
+            "statId": "BE241237",
+            "statNm": "경주휴게소 부산방향",
+            "url": "https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%B6%80%EC%82%B0%EB%B0%A9%ED%96%A5?c=15.00,0,0,0,adh&p=J2Z0UOmGALVxFStEkNqaRA,-73.72,-6.36,55.94,Float",
+            "surl": "https://naver.me/xRgQ7j8f"
+        },
+        "BE241238": {
+            "statId": "BE241238",
+            "statNm": "고성공룡나라휴게소 대전방향",
+            "url": "https://map.naver.com/p/search/%EA%B3%A0%EC%84%B1%EA%B3%B5%EB%A3%A1%EB%82%98%EB%9D%BC%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%8C%80%EC%A0%84%EB%B0%A9%ED%96%A5?c=15.00,0,0,0,adh&p=dAx1NV7Jz7S_Wn7NjGrWeg,26.16,-1.84,80,Float",
+            "surl": "https://naver.me/GbyEpKq4"
+        },
+        "BE241239": {
+            "statId": "BE241239",
+            "statNm": "고성공룡나라휴게소 통영방향",
+            "url": "https://map.naver.com/p/search/%EA%B3%A0%EC%84%B1%EA%B3%B5%EB%A3%A1%EB%82%98%EB%9D%BC%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%8C%80%EC%A0%84%EB%B0%A9%ED%96%A5?c=16.60,0,0,0,adh&p=kqf_NHr1zCxKgc3JUP4_UQ,-143.56,-2.43,55.94,Float",
+            "surl": "https://naver.me/5LQ3b0aJ"
+        },
+        "BE241240": {
+            "statId": "BE241240",
+            "statNm": "김해금관가야휴게소 기장방향",
+            "url": "https://map.naver.com/p/search/%EA%B9%80%ED%95%B4%EA%B8%88%EA%B4%80%EA%B0%80%EC%95%BC%ED%9C%B4%EA%B2%8C%EC%86%8C?c=15.45,0,0,0,adh&p=sXQ8kJEHgKgo26NXHJ6t8w,134.26,-8.11,80,Float",
+            "surl": "https://naver.me/5vJIvRvp"
+        },
+        "BE241241": {
+            "statId": "BE241241",
+            "statNm": "김해금관가야휴게소 창원방향",
+            "url": "https://map.naver.com/p/search/%EA%B9%80%ED%95%B4%EA%B8%88%EA%B4%80%EA%B0%80%EC%95%BC%ED%9C%B4%EA%B2%8C%EC%86%8C?c=15.45,0,0,0,adh&p=zaDArM4oY1FVxlL_v0qbPQ,68.73,-7.28,80,Float",
+            "surl": "https://naver.me/FQuaDhIA"
+        },
+        "BE241242": {
+            "statId": "BE241242",
+            "statNm": "산청휴게소 대전방향",
+            "url": "https://map.naver.com/p/search/%EC%82%B0%EC%B2%AD%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%8C%80%EC%A0%84%EB%B0%A9%ED%96%A5/place/1057072379?c=16.11,0,0,0,adh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604131401&locale=ko&svcName=map_pcv5&searchText=%EC%82%B0%EC%B2%AD%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%8C%80%EC%A0%84%EB%B0%A9%ED%96%A5&p=vayegI6fUs-XoEEcREX8Cg,99.39,-6.28,80,Float",
+            "surl": "https://naver.me/5RAcMrue"
+        },
+        "BE241243": {
+            "statId": "BE241243",
+            "statNm": "산청휴게소 통영방향",
+            "url": "https://map.naver.com/p/entry/place/13279296?c=16.11,0,0,0,adh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604131402&locale=ko&svcName=map_pcv5&p=R-nF2m9reqSpWP3nmDngzA,-49.04,-4.45,55.94,Float",
+            "surl": "https://naver.me/G5krnr09"
+        },
+        "BE241244": {
+            "statId": "BE241244",
+            "statNm": "영산휴게소 창원방향",
+            "url": "https://map.naver.com/p/search/%EC%98%81%EC%82%B0%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%B0%BD%EC%9B%90%EB%B0%A9%ED%96%A5?c=15.00,0,0,0,adh&p=l0WM36H663X4HnujWN-QVA,-47.11,-1.55,38.75,Float",
+            "surl": "https://naver.me/Fz8H0HRb"
+        },
+        "BE241245": {
+            "statId": "BE241245",
+            "statNm": "장유휴게소 서부산방향",
+            "url": "https://map.naver.com/p/search/%EC%9E%A5%EC%9C%A0%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%84%9C%EB%B6%80%EC%82%B0?c=16.48,0,0,0,adh&p=iyP6KzaIcCYw6dVTl76tAg,-112.8,-8.55,80,Float",
+            "surl": "https://naver.me/FvTnRKAP"
+        },
+        "BE241246": {
+            "statId": "BE241246",
+            "statNm": "진영휴게소 순천방향",
+            "url": "https://map.naver.com/p/search/%EC%A7%84%EC%98%81%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%88%9C%EC%B2%9C%EB%B0%A9%ED%96%A5?c=16.92,0,0,0,adh&p=lHfylFfJ3sesHGLYMf_4wA,-53.45,-4.16,80,Float",
+            "surl": "https://naver.me/5qLRmg9n"
+        },
+        "BE241247": {
+            "statId": "BE241247",
+            "statNm": "진주휴게소 반려견놀이터주차장",
+            "url": "https://map.naver.com/p/search/%EC%A7%84%EC%A3%BC%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%B0%98%EB%A0%A4%EA%B2%AC/place/1585785534?c=18.18,0,0,0,adh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604131410&locale=ko&svcName=map_pcv5&searchText=%EC%A7%84%EC%A3%BC%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%B0%98%EB%A0%A4%EA%B2%AC&p=b1LW_QpuX6kW3EtJkBqxWQ,35.66,-8.28,80,Float",
+            "surl": "https://naver.me/GVVAfEqf"
+        },
+        "BE241248": {
+            "statId": "BE241248",
+            "statNm": "함안휴게소 부산방향",
+            "url": "https://map.naver.com/p/search/%ED%95%A8%EC%95%88%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%B6%80%EC%82%B0%EB%B0%A9%ED%96%A5?c=16.26,0,0,0,adh&p=Udb9Ugmw4C8ROIO7Qc-1qQ,84.97,-2.8,55.94,Float",
+            "surl": "https://naver.me/GhwEcwS6"
+        },
+        "BE241249": {
+            "statId": "BE241249",
+            "statNm": "함안휴게소 순천방향",
+            "url": "https://map.naver.com/p/search/%ED%95%A8%EC%95%88%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%88%9C%EC%B2%9C%EB%B0%A9%ED%96%A5?c=15.00,0,0,0,adh&p=LxBYp17ycI7YLNTxqODAjQ,-21.84,2.59,25,Float",
+            "surl": "https://naver.me/FBMwIKk7"
+        },
+        "BE241250": {
+            "statId": "BE241250",
+            "statNm": "현풍휴게소 대구방향",
+            "url": "https://map.naver.com/p/search/%ED%98%84%ED%92%8D%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EB%8C%80%EA%B5%AC%EB%B0%A9%ED%96%A5?c=15.89,0,0,0,adh&p=zACsDUE0-YyQgr1zHugUJw,124.07,-5.46,55.94,Float",
+            "surl": "https://naver.me/F7FCGnhI"
+        },
+        "BE241251": {
+            "statId": "BE241251",
+            "statNm": "현풍휴게소 창원방향",
+            "url": "https://map.naver.com/p/search/%ED%98%84%ED%92%8D%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%B0%BD%EC%9B%90%EB%B0%A9%ED%96%A5/place/13281617?c=16.71,0,0,0,adh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604131418&locale=ko&svcName=map_pcv5&searchText=%ED%98%84%ED%92%8D%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%B0%BD%EC%9B%90%EB%B0%A9%ED%96%A5&p=j6BalsmCpnhazPzk6mOFAg,-143.03,-3.91,38.75,Float",
+            "surl": "https://naver.me/FEgJBIBW"
+        },
+        "SGMAC018": {
+            "statId": "SGMAC018",
+            "statNm": "오수휴게소(순천) ",
+            "url": "https://map.naver.com/p/search/%EC%98%A4%EC%88%98%ED%9C%B4%EA%B2%8C%EC%86%8C?c=15.00,0,0,0,adh&p=qU8PSTOyipp10VUV5VwGaQ,-44.38,3.67,80,Float",
+            "surl": "https://naver.me/5IfFNkD2"
+        },
+        "SGMAC024": {
+            "statId": "SGMAC024",
+            "statNm": "고창고인돌휴게소(서울)",
+            "url": "https://map.naver.com/p/search/%EA%B3%A0%EC%B0%BD%EA%B3%A0%EC%9D%B8%EB%8F%8C%ED%9C%B4%EA%B2%8C%EC%86%8C(%EC%84%9C%EC%9A%B8)?c=15.00,0,0,0,adh&p=_qBiuKE43qIsPi3AtEbZPQ,123.16,-5.57,80,Float",
+            "surl": "https://naver.me/FFqvOl1N"
+        },
+        "SGMAC025": {
+            "statId": "SGMAC025",
+            "statNm": "장흥정남진휴게소(목포)",
+            "url": "https://map.naver.com/p/search/%EC%9E%A5%ED%9D%A5%EC%A0%95%EB%82%A8%EC%A7%84%ED%9C%B4%EA%B2%8C%EC%86%8C?c=17.81,0,0,0,adh&p=29lSbp-mEpVarL91mghiFA,-69.03,-0.38,38.75,Float",
+            "surl": "https://naver.me/FiPL8SNN"
+        },
+        "SGMAC032": {
+            "statId": "SGMAC032",
+            "statNm": "주암휴게소(천안)",
+            "url": "https://map.naver.com/p/search/%EC%A3%BC%EC%95%94%ED%9C%B4%EA%B2%8C%EC%86%8C(%EC%B2%9C%EC%95%88)?c=15.00,0,0,0,adh&p=6Z38tutJVgyeVRVSvFDFIA,70.3,-7.04,38.75,Float",
+            "surl": "https://naver.me/G7NKwTWY"
+        },
+        "SGMAC033": {
+            "statId": "SGMAC033",
+            "statNm": "함평나비휴게소(광주)",
+            "url": "https://map.naver.com/p/search/%ED%95%A8%ED%8F%89%EB%82%98%EB%B9%84%ED%9C%B4%EA%B2%8C%EC%86%8C(%EA%B4%91%EC%A3%BC)?c=15.00,0,0,0,adh&p=w76zLeF474CUIBL089BkuA,132.64,-6.14,80,Float",
+            "surl": "https://naver.me/5ECQtA6K"
+        },
+        "SGMAC035": {
+            "statId": "SGMAC035",
+            "statNm": "금산인삼랜드휴게소(통영)",
+            "url": "https://map.naver.com/p/search/%EA%B8%88%EC%82%B0%EC%9D%B8%EC%82%BC%EB%9E%9C%EB%93%9C%ED%9C%B4%EA%B2%8C%EC%86%8C(%ED%86%B5%EC%98%81)?c=15.85,0,0,0,adh&p=gdITNVTFMxn6KevHPSygsA,-130.59,-2.62,55.94,Float",
+            "surl": "https://naver.me/5vJIvKtF"
+        },
+        "SGMAC042": {
+            "statId": "SGMAC042",
+            "statNm": "순천휴게소(순천)",
+            "url": "https://map.naver.com/p/search/%EC%88%9C%EC%B2%9C%ED%9C%B4%EA%B2%8C%EC%86%8C?c=18.97,0,0,3,adh&p=3SkscQj3e8PFOU_0snjN0g,151.79,-4.71,38.75,Float",
+            "surl": "https://naver.me/5LQ3bqku"
+        },
+        "SGMAC044": {
+            "statId": "SGMAC044",
+            "statNm": "망향휴게소(부산)",
+            "url": "https://map.naver.com/p/search/%EB%A7%9D%ED%96%A5%ED%9C%B4%EA%B2%8C%EC%86%8C?c=17.17,0,0,3,adh&p=kVIItpRzvvZQ4afquIB2Sg,-49.93,0.93,28.44,Float",
+            "surl": "https://naver.me/5ho3DIWZ"
+        },
+        "SGMAC047": {
+            "statId": "SGMAC047",
+            "statNm": "서산휴게소(서울)",
+            "url": "https://map.naver.com/p/search/%EC%84%9C%EC%82%B0%ED%9C%B4%EA%B2%8C%EC%86%8C(%EC%84%9C%EC%9A%B8)?c=15.71,0,0,3,adh&p=58attkrnnsD5QQD6ckaY8w,-5.14,-6.01,38.75,Float",
+            "surl": "https://naver.me/F2Lv91YS"
+        },
+        "SGMAC048": {
+            "statId": "SGMAC048",
+            "statNm": "서천휴게소(목포)",
+            "url": "https://map.naver.com/p/search/%EC%84%9C%EC%B2%9C%ED%9C%B4%EA%B2%8C%EC%86%8C(%EB%AA%A9%ED%8F%AC)?c=15.85,0,0,3,adh&p=CVrm50RbZLoWtqz5mdAvGQ,-115.13,-5.82,55.94,Float",
+            "surl": "https://naver.me/FWTJ7EQv"
+        },
+        "SGMAC050": {
+            "statId": "SGMAC050",
+            "statNm": "황전휴게소(완주)",
+            "url": "https://map.naver.com/p/search/%ED%99%A9%EC%A0%84%ED%9C%B4%EA%B2%8C%EC%86%8C?c=15.77,0,0,3,adh&p=1Rhfxp1UZ8kxPn478qNmug,23.39,-5.78,55.94,Float",
+            "surl": "https://naver.me/F7FCGoGa"
+        },
+        "SGMAC052": {
+            "statId": "SGMAC052",
+            "statNm": "홍성휴게소(서울)",
+            "url": "https://map.naver.com/p/search/%ED%99%8D%EC%84%B1%ED%9C%B4%EA%B2%8C%EC%86%8C(%EC%84%9C%EC%9A%B8)?c=15.63,0,0,3,adh&p=QhlJFP3NNS-lGBFG9_BP0g,101,-2.54,55.94,Float",
+            "surl": "https://naver.me/5B01NgvC"
+        },
+        "SGMAC053": {
+            "statId": "SGMAC053",
+            "statNm": "밀양영남루휴게소(울산)",
+            "url": "https://map.naver.com/p/search/%EB%B0%80%EC%96%91%EC%98%81%EB%82%A8%EB%A3%A8%ED%9C%B4%EA%B2%8C%EC%86%8C(%EC%9A%B8%EC%82%B0)?c=15.00,0,0,3,adh&p=1HjieQbT0OkhloPIRSoGCg,131.97,-1.26,38.75,Float",
+            "surl": "https://naver.me/FCZby7Cq"
+        },
+        "SGMAC054": {
+            "statId": "SGMAC054",
+            "statNm": "밀양영남루휴게소(함양)",
+            "url": "https://map.naver.com/p/search/%EB%B0%80%EC%96%91%EC%98%81%EB%82%A8%EB%A3%A8%ED%9C%B4%EA%B2%8C%EC%86%8C(%ED%95%A8%EC%96%91)?c=15.22,0,0,3,adh&p=6QwS8RWrZhX9vLUw_cm3Tg,-57.65,-2.01,38.75,Float",
+            "surl": "https://naver.me/F05KJVZO"
+        },
+        "CV001364": {
+            "statId": "CV001364",
+            "statNm": "채비스테이 강남서초센터",
+            "url": "https://map.naver.com/p/search/%EC%B1%84%EB%B9%84%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EA%B0%95%EB%82%A8%EC%84%9C%EC%B4%88%EC%84%BC%ED%84%B0/place/1336024677?c=15.00,0,0,3,adh&isCorrectAnswer=true&p=j1fQkwI7PYvLek76mg6SZg,26.98,-5,55.94,Float",
+            "surl": "https://naver.me/5Yo1KbNb"
+        }
+    }
+}
