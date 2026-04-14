@@ -1,6 +1,7 @@
 {
     "msg1" : [
 
+        "<span>📍 <span style='color: #198c19;'>[거리뷰]</span> 보기 추가. 네이버 거리뷰로 충전소 위치를 확인해보세요.</span>",
         "<span>🔌 <span style='color: #198c19;'>[데스티네이션차저]</span> 위치를 확인할 수 있습니다. 이용 전 충전 가능 여부를 확인하세요.</span>",
         "<span>🚗 <span style='color: #ff0000;'>[길찾기]</span> 기능이 추가되었습니다. 경로 주변의 충전소를 탐색할 수 있습니다.</span>"
 
