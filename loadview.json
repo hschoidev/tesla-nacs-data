@@ -79,6 +79,66 @@
             "statNm": "평창휴게소(인천방향)",
             "url": "https://map.naver.com/p/search/%ED%8F%89%EC%B0%BD%ED%9C%B4%EA%B2%8C%EC%86%8C?c=17.66,0,0,2,adh&p=AGfZteL50yc4pxBF8lZB7g,120.67,2.01,38.75,Float",
             "surl": "https://naver.me/Gi0byNvS"
+        },
+        "3947": {
+            "statNm": "제천",
+            "url": "https://map.naver.com/p/search/%EC%A0%9C%EC%B2%9C%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1722540354?c=15.00,0,0,2,adh&isCorrectAnswer=true&p=T-h2Xytt4Ph8alf6IXq0_Q,131,-4.75,80,Float",
+            "surl": "https://naver.me/5VxoHVa5"
+        },
+        "1132": {
+            "statNm": "원주 - 오크밸리",
+            "url": "https://map.naver.com/p/search/%EC%98%A4%ED%81%AC%EB%B0%B8%EB%A6%AC%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1949076932?c=15.00,0,0,2,adh&isCorrectAnswer=true&p=TD2zu3twQbESfIS4FhgwAA,139.51,-7.47,80,Float",
+            "surl": "https://naver.me/GYDAyhwb"
+        },
+        "10045": {
+            "statNm": "가평휴게소(춘천방향)",
+            "url": "https://map.naver.com/p/search/%EA%B0%80%ED%8F%89%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/2141623067?c=17.81,0,0,2,adh&p=LzijgYjgrM2UGuOfHoFvuQ,102.8,-0.28,55.94,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604151650&locale=ko&svcName=map_pcv5&searchText=%EA%B0%80%ED%8F%89%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/Gy3XmzBu"
+        },
+        "10046": {
+            "statNm": "가평휴게소(서울방향)",
+            "url": "https://map.naver.com/p/search/%EA%B0%80%ED%8F%89%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/2145768799?c=17.81,0,0,2,adh&p=Tx2WFdRyb2gko91ZYJxnDw,-69.95,-4.89,80,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604151652&locale=ko&svcName=map_pcv5&searchText=%EA%B0%80%ED%8F%89%ED%9C%B4%EA%B2%8C%EC%86%8C%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/5FD3JWUK"
+        },
+        "6881": {
+            "statNm": "남양주 - 화도 디스플레인",
+            "url": "https://map.naver.com/p/search/%EB%82%A8%EC%96%91%EC%A3%BC%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=20.00,0,0,2,adh&p=uDYP4pkBunN6jp06VLuatg,151.01,9.81,80,Float",
+            "surl": "https://naver.me/FqI3wplC"
+        },
+        "5938": {
+            "statNm": "여주 - 선밸리호텔",
+            "url": "https://map.naver.com/p/search/%EC%97%AC%EC%A3%BC%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=9.54,0,0,2,adh&p=e_Lbzb2ZAHNn7bZ22uMg4A,-98,-10.48,80,Float",
+            "surl": "https://naver.me/50B6qgbN"
+        },
+        "5054": {
+            "statNm": "충주 - 모다아울렛",
+            "url": "https://map.naver.com/p/search/%EC%B6%A9%EC%A3%BC%EB%AA%A8%EB%8B%A4%EC%95%84%EC%9A%B8%EB%A0%9B%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=15.00,0,0,2,adh&p=8zeQT7KX7isnkS496R23HA,124.31,-7.41,80,Float",
+            "surl": "https://naver.me/5Z1RGQIh"
+        },
+        "1806": {
+            "statNm": "상주",
+            "url": "https://map.naver.com/p/search/%EC%83%81%EC%A3%BC%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=15.00,0,0,2,adh&p=zWXXMUJuxY2KAGzhw2bTVA,-103,-3.56,80,Float",
+            "surl": "https://naver.me/xEXLBDXa"
+        },
+        "6109": {
+            "statNm": "안동",
+            "url": "https://map.naver.com/p/search/%EC%95%88%EB%8F%99%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=16.82,0,0,2,adh&p=ffFfL9YNInA_ZLH0-JRz_w,-10.73,-5.1,53.75,Float",
+            "surl": "https://naver.me/5FD3JQIA"
+        },
+        "5507": {
+            "statNm": "김천 - 모다아울렛",
+            "url": "https://map.naver.com/p/search/%EA%B9%80%EC%B2%9C%EB%AA%A8%EB%8B%A4%EC%95%84%EC%9A%B8%EB%A0%9B%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1432633791?c=15.00,0,0,2,adh&isCorrectAnswer=true&p=J4wMe6DugNBJqKlEDO1q6Q,-75.27,-9.62,80,Float",
+            "surl": "https://naver.me/FSvV92Hp"
+        },
+        "6021": {
+            "statNm": "구미 - 형곡",
+            "url": "https://map.naver.com/p/search/%EA%B5%AC%EB%AF%B8%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=17.58,0,0,2,adh&p=suzmBfWu33qP2lvNevh3hA,-50.36,2.94,80,Float",
+            "surl": "https://naver.me/FkamAIkv"
+        },
+        "4145": {
+            "statNm": "포항",
+            "url": "https://map.naver.com/p/search/%ED%8F%AC%ED%95%AD%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=18.44,0,0,2,adh&p=bG4rBmdb-sWYceINrf58Nw,70.84,5.97,50,Float",
+            "surl": "https://naver.me/GtY8PW7y"
         }
     },
     "dc": {
@@ -111,6 +171,16 @@
             "statNm": "삼척 원더풀",
             "url": "https://map.naver.com/p/search/%EC%82%BC%EC%B2%99%EC%9B%90%EB%8D%94%ED%92%80?c=17.67,0,0,3,adh&p=BjeCvRW7B_gBREK2t2n8HA,46.85,-1.28,47.19,Float",
             "surl": "https://naver.me/GGGo0N24"
+        },
+        "chungjumodaoutletsupercharger": {
+            "statNm": "충주 - 모다아울렛",
+            "url": "https://map.naver.com/p/search/%EC%B6%A9%EC%A3%BC%EB%AA%A8%EB%8B%A4%EC%95%84%EC%9A%B8%EB%A0%9B?c=18.60,0,0,2,adh&p=khdvBjZ52L27NwyooqfE4w,93.48,-4.48,80,Float",
+            "surl": "https://naver.me/Ge7FwLH2"
+        },
+        "pohangsupercharger": {
+            "statNm": "포항",
+            "url": "https://map.naver.com/p/search/%ED%8F%AC%ED%95%AD%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=18.44,0,0,2,adh&p=bG4rBmdb-sWYceINrf58Nw,70.84,5.97,50,Float",
+            "surl": "https://naver.me/GtY8PW7y"
         }
     },
     "nacs": {
