@@ -356,6 +356,11 @@
             "statNm": "스테이폴리오 - 송당아진",
             "url": "https://map.naver.com/p/entry/place/1734922022?c=15.00,0,0,2,adh&p=goPU7nyYc2d4I6JLmMaEyg,-160,-6.13,80,Float",
             "surl": "https://naver.me/5bC3IPB6"
+        },
+        "4105": {
+            "statNm": "세종 - AK플라자",
+            "url": "https://map.naver.com/p/search/%EC%84%B8%EC%A2%85%20ak%ED%94%8C%EB%9D%BC%EC%9E%90%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1176360746?c=16.96,0,0,1,adh&isCorrectAnswer=true&p=SKPsAyJpVh3MgPoiLDsiaA,48.68,6.6,80,Float",
+            "surl": "https://naver.me/5T0wXIPx"
         }
     },
     "nacs": {
