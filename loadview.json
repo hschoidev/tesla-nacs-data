@@ -299,6 +299,31 @@
             "statNm": "대구 - 수성",
             "url": "https://map.naver.com/p/search/%EB%8C%80%EA%B5%AC%20%EC%88%98%EC%84%B1%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1156961291?c=18.26,0,0,1,adh&isCorrectAnswer=true&p=Lf3_8aORZ15XiGguE24E5g,177.41,-4.86,80,Float",
             "surl": "https://naver.me/GT4W7ZTr"
+        },
+        "3946": {
+            "statNm": "청도",
+            "url": "https://map.naver.com/p/search/%EC%B2%AD%EB%8F%84%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=20.00,0,0,1,adh&p=MgPkVsgf6pAVjGlKLvllYQ,29.49,6.13,80,Float",
+            "surl": "https://naver.me/GIIz7hu0"
+        },
+        "4394": {
+            "statNm": "경주",
+            "url": "https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=15.79,0,0,1,adh&p=w2jhD1NcQzXxNievlhPF8w,147.74,-11.83,80,Float",
+            "surl": "https://naver.me/xD8KY9yi"
+        },
+        "7695": {
+            "statNm": "경주 - 신라명가",
+            "url": "https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/2045659066?c=15.79,0,0,1,adh&p=5mCwGK3hNoSJqxz2_zy1fg,169.41,1.98,53.75,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604152054&locale=ko&svcName=map_pcv5&searchText=%EA%B2%BD%EC%A3%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/GbyYxRT7"
+        },
+        "11330": {
+            "statNm": "경주 - 광광휴게소",
+            "url": "https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=17.53,0,0,1,adh&p=sGObvBpGWbEYfrx7O-oDAQ,-33.05,-9.75,80,Float",
+            "surl": "https://naver.me/xpjiV1BX"
+        },
+        "6621": {
+            "statNm": "울산 - 모다아울렛",
+            "url": "https://map.naver.com/p/search/%EC%9A%B8%EC%82%B0%20%EB%AA%A8%EB%8B%A4%EC%95%84%EC%9A%B8%EB%A0%9B%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1617183093?c=17.41,0,0,1,adh&isCorrectAnswer=true&p=YRaJgxBe_5gAaKRNouBspg,155.26,-1.24,80,Float",
+            "surl": "https://naver.me/5g47xlId"
         }
     },
     "dc": {
