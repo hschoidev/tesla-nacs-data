@@ -34,6 +34,51 @@
             "statNm": "강릉 - 라카이 샌드파인",
             "url": "https://map.naver.com/p/search/%EB%9D%BC%EC%B9%B4%EC%9D%B4%EC%83%8C%EB%93%9C%ED%8C%8C%EC%9D%B8?c=16.74,0,0,3,adh&p=fqAueF57eOFYzgWGTo_HYQ,-179.58,-8.71,80,Float",
             "surl": "https://naver.me/5c8w5h7i"
+        },
+        "5762": {
+            "statNm": "강릉 - 세인트존스호텔",
+            "url": "https://map.naver.com/p/search/%EC%84%B8%EC%9D%B8%ED%8A%B8%EC%A1%B4%EC%8A%A4%EA%B2%BD%ED%8F%AC%ED%98%B8%ED%85%94?c=17.00,0,0,2,adh&p=qfKR-Teye5fVufd6dVG0dA,-56.37,-2.67,45,Float",
+            "surl": "https://naver.me/xLNaZNCf"
+        },
+        "5761": {
+            "statNm": "강릉 - 테라로사",
+            "url": "https://map.naver.com/p/search/%ED%85%8C%EB%9D%BC%EB%A1%9C%EC%82%AC?c=18.30,0,0,2,adh&p=_7WC6Bsu4LN3airdo6JNsQ,-82.32,-0.46,45,Float",
+            "surl": "https://naver.me/xgXkYXIC"
+        },
+        "5940": {
+            "statNm": "동해",
+            "url": "https://map.naver.com/p/search/%EB%8F%99%ED%95%B4%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1240596189?c=13.67,0,0,2,adh&isCorrectAnswer=true&p=1N3T_rZAQUK8UHf_t1RrMg,179.68,-4.67,80,Float",
+            "surl": "https://naver.me/5CCvxnQN"
+        },
+        "6552": {
+            "statNm": "태백",
+            "url": "https://map.naver.com/p/search/%ED%83%9C%EB%B0%B1%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1369021097?c=17.90,0,0,2,adh&isCorrectAnswer=true&p=Yb04qgMQCrM_-hKX7xRV8A,-5.34,3.63,45,Float",
+            "surl": "https://naver.me/5T0wMzEz"
+        },
+        "6242": {
+            "statNm": "대관령",
+            "url": "https://map.naver.com/p/search/%EB%8C%80%EA%B4%80%EB%A0%B9%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1039105997?c=12.77,0,0,2,adh&isCorrectAnswer=true&p=33ZtpGweMZTbrXEckiRylA,-34.12,-0.75,80,Float",
+            "surl": "https://naver.me/5OlD49QO"
+        },
+        "5019": {
+            "statNm": "인제",
+            "url": "https://map.naver.com/p/search/%EC%9D%B8%EC%A0%9C%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=18.05,0,0,2,adh&p=_FwzKrtDWTnqKYEXZx5oPQ,-10.08,-9.88,80,Float",
+            "surl": "https://naver.me/52a9bxCt"
+        },
+        "3864": {
+            "statNm": "평창 - 휘닉스",
+            "url": "https://map.naver.com/p/search/%ED%9C%98%EB%8B%89%EC%8A%A4%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1067793872?c=13.64,0,0,2,adh&isCorrectAnswer=true&p=NGRolb_pGI6mxFHJggc_iQ,70.63,-5.64,80,Float",
+            "surl": "https://naver.me/FqI3wXUy"
+        },
+        "6934": {
+            "statNm": "영월",
+            "url": "https://map.naver.com/p/search/%EC%98%81%EC%9B%94%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1758971874?c=16.96,0,0,2,adh&isCorrectAnswer=true&p=Ak-I4xd9AHMDN6ZRWl4XUQ,111.32,-3.72,53.75,Float",
+            "surl": "https://naver.me/xaTJFkdP"
+        },
+        "10830": {
+            "statNm": "평창휴게소(인천방향)",
+            "url": "https://map.naver.com/p/search/%ED%8F%89%EC%B0%BD%ED%9C%B4%EA%B2%8C%EC%86%8C?c=17.66,0,0,2,adh&p=AGfZteL50yc4pxBF8lZB7g,120.67,2.01,38.75,Float",
+            "surl": "https://naver.me/Gi0byNvS"
         }
     },
     "dc": {
