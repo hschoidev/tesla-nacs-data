@@ -194,6 +194,36 @@
             "statNm": "하동",
             "url": "https://map.naver.com/p/search/%ED%95%98%EB%8F%99%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1346457896?c=13.00,0,0,2,adh&isCorrectAnswer=true&p=JmNhNMSv49pJLa9Lg2QUTg,37,-4.06,80,Float",
             "surl": "https://naver.me/IMZVzZSr"
+        },
+        "6449": {
+            "statNm": "진주 - 모다아울렛",
+            "url": "https://map.naver.com/p/search/%EC%A7%84%EC%A3%BC%EB%AA%A8%EB%8B%A4%EC%95%84%EC%9A%B8%EB%A0%9B%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1404995612?c=18.30,0,0,2,adh&isCorrectAnswer=true&p=-k_lRC14j_1PVHIAriHOVA,136.02,-4.8,80,Float",
+            "surl": "https://naver.me/FEgZwmZf"
+        },
+        "1804": {
+            "statNm": "진주 - 롯데몰",
+            "url": "https://map.naver.com/p/search/%EC%A7%84%EC%A3%BC%20%EB%A1%AF%EB%8D%B0%EB%AA%B0%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1093965693?c=17.63,0,0,2,adh&p=1JHrveYt8lgDqZl2U3ZPyQ,-67.28,-2.89,80,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604151801&locale=ko&svcName=map_pcv5&searchText=%EC%A7%84%EC%A3%BC%20%EB%A1%AF%EB%8D%B0%EB%AA%B0%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/GFsTfyCW"
+        },
+        "2020": {
+            "statNm": "함양",
+            "url": "https://map.naver.com/p/search/%ED%95%A8%EC%96%91%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1580980855?c=18.26,0,0,1,adh&isCorrectAnswer=true&p=urTSu6UeDukYd65dTafI7A,137.59,4.36,47.19,Float",
+            "surl": "https://naver.me/FhuRp9Iz"
+        },
+        "5573": {
+            "statNm": "임실",
+            "url": "https://map.naver.com/p/search/%EC%9E%84%EC%8B%A4%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1483107691?c=16.74,0,0,1,adh&isCorrectAnswer=true&p=65UjwztToY0XT8-9TmEIzQ,135.64,-6.21,80,Float",
+            "surl": "https://naver.me/5MvwsizM"
+        },
+        "4144": {
+            "statNm": "전주",
+            "url": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1242079704?c=16.93,0,0,1,adh&p=QeCpUc1O342mL2iYHo85gQ,122.99,-0.36,64.69,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604151851&locale=ko&svcName=map_pcv5&searchText=%EC%A0%84%EC%A3%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/FM9RherZ"
+        },
+        "7435": {
+            "statNm": "전주 - 미곡 로스터리",
+            "url": "",
+            "surl": "https://naver.me/GrgywiTh"
         }
     },
     "dc": {
