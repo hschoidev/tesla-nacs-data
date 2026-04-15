@@ -259,6 +259,31 @@
             "statNm": "정안알밤휴게소(천안방향)",
             "url": "https://map.naver.com/p/search/%EC%A0%95%EC%95%88%EC%95%8C%EB%B0%A4%ED%9C%B4%EA%B2%8C%EC%86%8C%20/place/11572658?c=17.19,0,0,1,adh&placePath=/home?bk_query=%EC%A0%95%EC%95%88%EC%95%8C%EB%B0%A4%ED%9C%B4%EA%B2%8C%EC%86%8C%20&entry=bmp&from=map&fromPanelNum=2&timestamp=202604151916&locale=ko&svcName=map_pcv5&searchText=%EC%A0%95%EC%95%88%EC%95%8C%EB%B0%A4%ED%9C%B4%EA%B2%8C%EC%86%8C%20&p=Ew956ZzM_sCqOAAky0-Ndg,108.3,-1.31,80,Float",
             "surl": "https://naver.me/FdqJQHi9"
+        },
+        "10828": {
+            "statNm": "정안알밤휴게소(순천, 논산방향)",
+            "url": "https://map.naver.com/p/search/%EC%A0%95%EC%95%88%EC%95%8C%EB%B0%A4%ED%9C%B4%EA%B2%8C%EC%86%8C%20?c=17.19,0,0,1,adh&p=3W6gOh2K3VQcPDiUXAk1dQ,-36.85,-0.48,80,Float",
+            "surl": "https://naver.me/FpwmV4ZC"
+        },
+        "10008": {
+            "statNm": "대전 - 모다아울렛",
+            "url": "https://map.naver.com/p/search/%EB%8C%80%EC%A0%84%20%EB%AA%A8%EB%8B%A4%EC%95%84%EC%9A%B8%EB%A0%9B%20?c=17.15,0,0,1,adh&p=9lF9jTFcn9Rrr3Hp_BD5Pw,-86.48,7.42,80,Float",
+            "surl": "https://naver.me/56Xrl81R"
+        },
+        "3886": {
+            "statNm": "대전 - 서구",
+            "url": "https://map.naver.com/p/search/%EB%8C%80%EC%A0%84%20%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1319467469?c=16.96,0,0,1,adh&isCorrectAnswer=true&p=cxVDWh_J6g4_oltOYmQhSw,-151.84,-2.61,80,Float",
+            "surl": "https://naver.me/5mv3eaJU"
+        },
+        "9309": {
+            "statNm": "대전 - 컨벤션센터",
+            "url": "https://map.naver.com/p/search/%EB%8C%80%EC%A0%84%20%EC%BB%A8%EB%B2%A4%EC%85%98%EC%84%BC%ED%84%B0%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1102144343?c=17.59,0,0,1,adh&isCorrectAnswer=true&p=M5LD5XgIWzbXsMfWQOhBbg,136.82,0.78,45,Float",
+            "surl": "https://naver.me/x6J0iBFa"
+        },
+        "1911": {
+            "statNm": "신탄진",
+            "url": "https://map.naver.com/p/search/%EB%8C%80%EC%A0%84%20%EC%8B%A0%ED%83%84%EC%A7%84%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1598211556?c=18.52,0,0,1,adh&isCorrectAnswer=true&p=aUjMduOGB5hwm8M04ozt3g,80.12,6.81,80,Float",
+            "surl": "https://naver.me/FtowvCcf"
         }
     },
     "dc": {
