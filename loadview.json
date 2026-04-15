@@ -1,6 +1,12 @@
 {
     "sc": {},
-    "dc": {},
+    "dc": {
+        "yeojusupercharger": {
+            "statNm": "여주 - 신세계프리미엄아울렛",
+            "url": "https://map.naver.com/p/search/%EC%97%AC%EC%A3%BC%EC%95%84%EC%9A%B8%EB%A0%9B?c=16.62,0,0,3,adh&p=WaB5gC-EqFDoE3sGB-YCAg,99.86,-6.54,80,Float",
+            "surl": "https://naver.me/5XcbPTm3"
+        }
+    },
     "nacs": {
         "BE241206": {
             "statId": "BE241206",
