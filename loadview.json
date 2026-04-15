@@ -239,6 +239,21 @@
             "statNm": "논산 - 라온빌리지",
             "url": "https://map.naver.com/p/search/%EB%9D%BC%EC%98%A8%EB%B9%8C%EB%A6%AC%EC%A7%80%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1848765225?c=15.00,0,0,1,adh&isCorrectAnswer=true&p=iwU78zwJidtCbpAh5fxChw,178.32,-13.7,80,Float",
             "surl": "https://naver.me/5CCveax1"
+        },
+        "4104": {
+            "statNm": "부여 - 롯데 프리미엄 아울렛",
+            "url": "https://map.naver.com/p/search/%EB%B6%80%EC%97%AC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=12.00,0,0,1,adh&p=XPhbxX7JW1eVMqPi5g0vAQ,158,2.06,80,Float",
+            "surl": "https://naver.me/5B06S3do"
+        },
+        "10825": {
+            "statNm": "탄천휴게소(순천, 논산방향)",
+            "url": "https://map.naver.com/p/search/%ED%83%84%EC%B2%9C%ED%9C%B4%EA%B2%8C%EC%86%8C?c=17.81,0,0,1,adh&p=mgCFqwOkBx_50GO0F2wc6Q,-5.07,-6.72,80,Float",
+            "surl": "https://naver.me/GB3yDhOk"
+        },
+        "10826": {
+            "statNm": "이인휴게소(천안방향)",
+            "url": "https://map.naver.com/p/search/%EC%9D%B4%EC%9D%B8%ED%9C%B4%EA%B2%8C%EC%86%8C%20?c=17.37,0,0,1,adh&p=uMIBN9uxJE-OTrCQSTPb6g,160.59,-5.84,80,Float",
+            "surl": "https://naver.me/5ulzusEj"
         }
     },
     "dc": {
