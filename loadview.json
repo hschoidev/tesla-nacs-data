@@ -254,6 +254,11 @@
             "statNm": "이인휴게소(천안방향)",
             "url": "https://map.naver.com/p/search/%EC%9D%B4%EC%9D%B8%ED%9C%B4%EA%B2%8C%EC%86%8C%20?c=17.37,0,0,1,adh&p=uMIBN9uxJE-OTrCQSTPb6g,160.59,-5.84,80,Float",
             "surl": "https://naver.me/5ulzusEj"
+        },
+        "10827": {
+            "statNm": "정안알밤휴게소(천안방향)",
+            "url": "https://map.naver.com/p/search/%EC%A0%95%EC%95%88%EC%95%8C%EB%B0%A4%ED%9C%B4%EA%B2%8C%EC%86%8C%20/place/11572658?c=17.19,0,0,1,adh&placePath=/home?bk_query=%EC%A0%95%EC%95%88%EC%95%8C%EB%B0%A4%ED%9C%B4%EA%B2%8C%EC%86%8C%20&entry=bmp&from=map&fromPanelNum=2&timestamp=202604151916&locale=ko&svcName=map_pcv5&searchText=%EC%A0%95%EC%95%88%EC%95%8C%EB%B0%A4%ED%9C%B4%EA%B2%8C%EC%86%8C%20&p=Ew956ZzM_sCqOAAky0-Ndg,108.3,-1.31,80,Float",
+            "surl": "https://naver.me/FdqJQHi9"
         }
     },
     "dc": {
