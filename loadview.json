@@ -139,6 +139,16 @@
             "statNm": "포항",
             "url": "https://map.naver.com/p/search/%ED%8F%AC%ED%95%AD%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=18.44,0,0,2,adh&p=bG4rBmdb-sWYceINrf58Nw,70.84,5.97,50,Float",
             "surl": "https://naver.me/GtY8PW7y"
+        },
+        "3745": {
+            "statNm": "제주 - 제주스토어",
+            "url": "https://map.naver.com/p/search/%EC%A0%9C%EC%A3%BC%EC%8A%A4%ED%86%A0%EC%96%B4%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=19.37,0,0,2,adh&p=JXzCaLRR6M7t5aqyMJZSxg,169.03,4.92,45,Float",
+            "surl": "https://naver.me/GO62ybHq"
+        },
+        "1440": {
+            "statNm": "제주 - 서귀포 롯데호텔",
+            "url": "https://map.naver.com/p/search/%EC%84%9C%EA%B7%80%ED%8F%AC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=16.60,0,0,2,adh&p=YZLeq2e4oClGN_32GhkrJQ,-22.44,-8.52,80,Float",
+            "surl": "https://naver.me/x0OMmRKN"
         }
     },
     "dc": {
@@ -181,6 +191,36 @@
             "statNm": "포항",
             "url": "https://map.naver.com/p/search/%ED%8F%AC%ED%95%AD%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=18.44,0,0,2,adh&p=bG4rBmdb-sWYceINrf58Nw,70.84,5.97,50,Float",
             "surl": "https://naver.me/GtY8PW7y"
+        },
+        "54831": {
+            "statNm": "스테이폴리오 - 빈티지제주",
+            "url": "https://map.naver.com/p/search/%EB%B9%88%ED%8B%B0%EC%A7%80%EC%A0%9C%EC%A3%BC?c=18.41,0,0,2,adh&p=VhgLnhqGORluRNsGTrX9sw,-28.95,1.96,80,Float",
+            "surl": "https://naver.me/FqI39KB9"
+        },
+        "54832": {
+            "statNm": "스테이폴리오 - 월령선인장",
+            "url": "https://map.naver.com/p/search/%EC%9B%90%EB%A0%B9%EC%84%A0%EC%9D%B8%EC%9E%A5?c=19.15,0,0,2,adh&p=EUTOkf9ixfILHJ2la6Zzyw,-17.45,-6.08,80,Float",
+            "surl": "https://naver.me/GT4W0w1G"
+        },
+        "dc43100": {
+            "statNm": "모노리스제주파크",
+            "url": "https://map.naver.com/p/entry/place/1045054743?c=19.15,0,0,2,adh&p=NyGl9vHyGNZ42Vy4ZFDd8w,-75.98,-10.67,80,Float",
+            "surl": "https://naver.me/xbKpcCO5"
+        },
+        "dc27266": {
+            "statNm": "씨에스 호텔 & 리조트",
+            "url": "https://map.naver.com/p/entry/place/1260986593?c=19.15,0,0,2,adh&p=wbL5lWuzHB-JF7K7V6QmLg,31.04,-12.85,80,Float",
+            "surl": "https://naver.me/xYNk6mL6"
+        },
+        "dc27298": {
+            "statNm": "더 클라우드 호텔",
+            "url": "https://map.naver.com/p/search/%EC%86%A1%EB%8B%B9%EC%95%84%EC%A7%84%20/place/1415173539?c=15.00,0,0,2,adh&isCorrectAnswer=true&p=rejAH5yZcxiqQShYwzYPXQ,49.57,2.94,80,Float",
+            "surl": "https://naver.me/FuNQJMsC"
+        },
+        "54828": {
+            "statNm": "스테이폴리오 - 송당아진",
+            "url": "https://map.naver.com/p/entry/place/1734922022?c=15.00,0,0,2,adh&p=goPU7nyYc2d4I6JLmMaEyg,-160,-6.13,80,Float",
+            "surl": "https://naver.me/5bC3IPB6"
         }
     },
     "nacs": {
