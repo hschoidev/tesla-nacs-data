@@ -149,6 +149,31 @@
             "statNm": "제주 - 서귀포 롯데호텔",
             "url": "https://map.naver.com/p/search/%EC%84%9C%EA%B7%80%ED%8F%AC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=16.60,0,0,2,adh&p=YZLeq2e4oClGN_32GhkrJQ,-22.44,-8.52,80,Float",
             "surl": "https://naver.me/x0OMmRKN"
+        },
+        "5628": {
+            "statNm": "목포",
+            "url": "https://map.naver.com/p/search/%EB%AA%A9%ED%8F%AC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1360669463?c=17.63,0,0,2,adh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604151735&locale=ko&svcName=map_pcv5&searchText=%EB%AA%A9%ED%8F%AC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80&p=3TFU7p-yxG_3NZB5O8fEEQ,-120.42,8.94,80,Float",
+            "surl": "https://naver.me/GKI7MOrb"
+        },
+        "6672": {
+            "statNm": "장흥 - 물과학관",
+            "url": "https://map.naver.com/p/search/%EC%9E%A5%ED%9D%A5%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1413702917?c=17.82,0,0,2,adh&isCorrectAnswer=true&p=TBjEwu2UkDbZdjLUsbv9cA,-81.18,-10.86,80,Float",
+            "surl": "https://naver.me/FUiruWIp"
+        },
+        "1327": {
+            "statNm": "광주 - 홀리데이인",
+            "url": "https://map.naver.com/p/search/%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4%EC%9D%B8%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1036278770?c=18.52,0,0,2,adh&isCorrectAnswer=true&p=uG86LTk66UIanxVNd1dIuA,-114.53,-1.51,80,Float",
+            "surl": "https://naver.me/GEdsWqQ6"
+        },
+        "7211": {
+            "statNm": "광주 - 유스퀘어",
+            "url": "https://map.naver.com/p/entry/place/1893095732?c=18.30,0,0,2,adh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604151741&locale=ko&svcName=map_pcv5&p=sMGsgzo5kKjqEnz6zz98rQ,144.34,0.9,45,Float",
+            "surl": "https://naver.me/5B06S1Q8"
+        },
+        "4334": {
+            "statNm": "광주 - 첨단",
+            "url": "https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%20%EC%B2%A8%EB%8B%A8%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1302331219?c=18.12,0,0,2,adh&isCorrectAnswer=true&p=pEEPbR4o0dju2sNMZ7lghg,-22.48,-6.84,80,Float",
+            "surl": "https://naver.me/xVRpJp6N"
         }
     },
     "dc": {
