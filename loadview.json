@@ -1,5 +1,11 @@
 {
-    "sc": {},
+    "sc": {
+        "3284": {
+            "statNm": "여주 - SSG 프리미엄 아울렛",
+            "url": "https://map.naver.com/p/search/%EC%97%AC%EC%A3%BC%EC%95%84%EC%9A%B8%EB%A0%9B?c=16.62,0,0,3,adh&p=h3OE2CypIQbB70yCDUgEBA,102.28,-4.83,64.69,Float",
+            "surl": "https://naver.me/xSBQrXDF"
+        }
+    },
     "dc": {
         "yeojusupercharger": {
             "statNm": "여주 - 신세계프리미엄아울렛",
