@@ -14,6 +14,26 @@
             "statNm": "속초 - 한화리조트 설악",
             "url": "https://map.naver.com/p/search/%ED%95%9C%ED%99%94%EB%A6%AC%EC%A1%B0%ED%8A%B8?c=17.44,0,0,3,adh&p=IObXPOq7n8fg_rayilSSFA,10.07,-7.38,80,Float",
             "surl": "https://naver.me/5im4y51x"
+        },
+        "5763": {
+            "statNm": "삼척",
+            "url": "https://map.naver.com/p/search/%EC%82%BC%EC%B2%99%EC%9B%90%EB%8D%94%ED%92%80?c=17.67,0,0,3,adh&p=BjeCvRW7B_gBREK2t2n8HA,46.85,-1.28,47.19,Float",
+            "surl": "https://naver.me/GGGo0N24"
+        },
+        "5726": {
+            "statNm": "고성 - 오션투유리조트",
+            "url": "https://map.naver.com/p/search/%EC%98%A4%EC%85%98%ED%88%AC%EC%9C%A0%EB%A6%AC%EC%A1%B0%ED%8A%B8?c=17.85,0,0,3,adh&p=OJDclRhu0ZnSMmc2KQ7lxg,-83.27,-2.07,50,Float",
+            "surl": "https://naver.me/51ufJYQh"
+        },
+        "7229": {
+            "statNm": "양양 - 물치항",
+            "url": "https://map.naver.com/p/search/%EB%AC%BC%EC%B9%98%ED%95%AD?c=18.30,0,0,3,adh&p=Z1GN6fMyTyTnwuvaYYH6Jw,-95.36,-10.73,80,Float",
+            "surl": "https://naver.me/xbKpB7VC"
+        },
+        "1396": {
+            "statNm": "강릉 - 라카이 샌드파인",
+            "url": "https://map.naver.com/p/search/%EB%9D%BC%EC%B9%B4%EC%9D%B4%EC%83%8C%EB%93%9C%ED%8C%8C%EC%9D%B8?c=16.74,0,0,3,adh&p=fqAueF57eOFYzgWGTo_HYQ,-179.58,-8.71,80,Float",
+            "surl": "https://naver.me/5c8w5h7i"
         }
     },
     "dc": {
@@ -36,6 +56,16 @@
             "statNm": "양양 - 설해원",
             "url": "https://map.naver.com/p/search/%EC%84%A4%ED%95%B4%EC%9B%90?c=17.81,0,0,3,adh&p=BVdFKx7cuaktGr-DRBVHCg,-24.92,-9.18,80,Float",
             "surl": "https://naver.me/Fetv9S6N"
+        },
+        "dc57041": {
+            "statNm": "라임 비치 펜션",
+            "url": "https://map.naver.com/p/search/%EB%9D%BC%EC%9E%84%EB%B9%84%EC%B9%98%ED%8E%9C%EC%85%98?c=19.05,0,0,3,adh&p=gujZAthbVISeLp7oE1q7Tg,115.16,-8.2,64.69,Float",
+            "surl": "https://naver.me/GgU2Z6J6"
+        },
+        "dc37992": {
+            "statNm": "삼척 원더풀",
+            "url": "https://map.naver.com/p/search/%EC%82%BC%EC%B2%99%EC%9B%90%EB%8D%94%ED%92%80?c=17.67,0,0,3,adh&p=BjeCvRW7B_gBREK2t2n8HA,46.85,-1.28,47.19,Float",
+            "surl": "https://naver.me/GGGo0N24"
         }
     },
     "nacs": {
