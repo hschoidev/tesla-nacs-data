@@ -394,6 +394,31 @@
             "statNm": "부산 - 기장",
             "url": "https://map.naver.com/p/search/%EA%B8%B0%EC%9E%A5%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=15.66,0,0,1,adh&p=Jq9SY0JMiO3XIcMiuzyt3Q,99.87,-0.53,50,Float",
             "surl": "https://naver.me/xjYXJghh"
+        },
+        "7228": {
+            "statNm": "청주 - 강서",
+            "url": "https://map.naver.com/p/search/%EC%B2%AD%EC%A3%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=18.38,0,0,1,adh&p=RmQs74yorjzCxpVeiYHFXQ,133.43,2.19,53.75,Float",
+            "surl": "https://naver.me/Gi0bevW4"
+        },
+        "4142": {
+            "statNm": "청주",
+            "url": "https://map.naver.com/p/search/%EC%B2%AD%EC%A3%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=17.93,0,0,1,adh&p=QbmrcwHJT2IqrFpGpJ6SQg,-161.37,-3.73,80,Float",
+            "surl": "https://naver.me/5wrhAtlH"
+        },
+        "1116": {
+            "statNm": "천안 - 목천",
+            "url": "https://map.naver.com/p/search/%EC%B2%9C%EC%95%88%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=16.86,0,0,1,adh&p=-iaaqy1mLQcxg0TCpupE2w,-143.09,9.3,45,Float",
+            "surl": "https://naver.me/5YoiaVdX"
+        },
+        "10010": {
+            "statNm": "천안 - 모다아울렛",
+            "url": "https://map.naver.com/p/search/%EC%B2%9C%EC%95%88%20%EB%AA%A8%EB%8B%A4%EC%95%84%EC%9A%B8%EB%A0%9B?c=16.89,0,0,1,adh&p=2BsPdKyj5flzMMBLHGO4vw,-113.37,-0.56,80,Float",
+            "surl": "https://naver.me/GRDAmpir"
+        },
+        "5814": {
+            "statNm": "천안 - 중앙교회",
+            "url": "https://map.naver.com/p/entry/place/1851439187?c=16.89,0,0,1,adh&p=hU6q_mEBpr0fk9aZR-ibPQ,1.33,3.48,80,Float",
+            "surl": "https://naver.me/xeFXcRtV"
         }
     },
     "dc": {
