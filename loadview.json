@@ -324,6 +324,76 @@
             "statNm": "울산 - 모다아울렛",
             "url": "https://map.naver.com/p/search/%EC%9A%B8%EC%82%B0%20%EB%AA%A8%EB%8B%A4%EC%95%84%EC%9A%B8%EB%A0%9B%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1617183093?c=17.41,0,0,1,adh&isCorrectAnswer=true&p=YRaJgxBe_5gAaKRNouBspg,155.26,-1.24,80,Float",
             "surl": "https://naver.me/5g47xlId"
+        },
+        "5574": {
+            "statNm": "세종 - 대평",
+            "url": "https://map.naver.com/p/search/%EB%8C%80%ED%8F%89%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1931968721?c=14.78,0,0,1,adh&isCorrectAnswer=true&p=FQ4Oa9ddi_Dp1n9NNdSBkA,167.81,1.19,80,Float",
+            "surl": "https://naver.me/x7ecBsAy"
+        },
+        "4105": {
+            "statNm": "세종 - AK플라자",
+            "url": "https://map.naver.com/p/search/%EC%84%B8%EC%A2%85%20ak%ED%94%8C%EB%9D%BC%EC%9E%90%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1176360746?c=16.96,0,0,1,adh&isCorrectAnswer=true&p=SKPsAyJpVh3MgPoiLDsiaA,48.68,6.6,80,Float",
+            "surl": "https://naver.me/5T0wXIPx"
+        },
+        "4146": {
+            "statNm": "창원",
+            "url": "https://map.naver.com/p/search/%EC%B0%BD%EC%9B%90%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=17.34,0,0,1,adh&p=YWQczhXi6gb0V4mcomcN3A,108.11,-2.98,80,Float",
+            "surl": "https://naver.me/Ghw7NMmJ"
+        },
+        "9310": {
+            "statNm": "김해 - 진영복합휴게소(부산방향)",
+            "url": "https://map.naver.com/p/search/%EC%A7%84%EC%98%81%ED%9C%B4%EA%B2%8C%EC%86%8C?c=17.33,0,0,1,adh&p=Pk_FKbAujDy8wlzq3g0wfQ,162.41,-0.8,80,Float",
+            "surl": "https://naver.me/5B06kfNB"
+        },
+        "11260": {
+            "statNm": "김해 - 롯데프리미엄 아울렛",
+            "url": "https://map.naver.com/p/search/%EA%B9%80%ED%95%B4%EB%A1%AF%EB%8D%B0%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%95%84%EC%9A%B8%EB%A0%9B%20?c=18.22,0,0,1,adh&p=bEUyeFW4uUprKRIsRV1OYg,91.79,-8.23,80,Float",
+            "surl": "https://naver.me/xeFXc6az"
+        },
+        "7656": {
+            "statNm": "김해 - 주촌",
+            "url": "https://map.naver.com/p/search/%EC%A3%BC%EC%B4%8C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1142114098?c=18.08,0,0,1,adh&isCorrectAnswer=true&p=mUv6MagN4GjR5AclgFmYXQ,54.36,-7.13,80,Float",
+            "surl": "https://naver.me/5c8w2tir"
+        },
+        "6392": {
+            "statNm": "부산 - 하단 아트몰링",
+            "url": "https://map.naver.com/p/search/%ED%95%98%EB%8B%A8%20%EC%95%84%ED%8A%B8%EB%AA%B0%EB%A7%81%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1996279805?c=17.19,0,0,1,adh&isCorrectAnswer=true&p=7BQF8tzZ8OSIMeogrCvQUw,-101.8,-3.78,80,Float",
+            "surl": "https://naver.me/xZK3G2SH"
+        },
+        "5508": {
+            "statNm": "양산 - 물금 오슬로파크",
+            "url": "https://map.naver.com/p/search/%EC%98%A4%EC%8A%AC%EB%A1%9C%ED%8C%8C%ED%81%AC%20%EC%A3%BC%EC%B0%A8%EC%9E%A5?c=19.15,0,0,1,adh&p=1ZuqjJsZ9fgjz5Ohd1qrww,-67.58,3.47,53.75,Float",
+            "surl": "https://naver.me/Ghw7N5Am"
+        },
+        "5049": {
+            "statNm": "부산 - 농심호텔",
+            "url": "https://map.naver.com/p/search/%EB%86%8D%EC%8B%AC%ED%98%B8%ED%85%94%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1727383614?c=17.55,0,0,1,adh&isCorrectAnswer=true&p=3sbzq2WlhMICyYLWtEPgBg,91.61,-5.95,80,Float",
+            "surl": "https://naver.me/Fetvp99s"
+        },
+        "2503": {
+            "statNm": "부산 - 연제",
+            "url": "https://map.naver.com/p/entry/place/1708447348?c=18.08,0,0,1,adh&p=TXyRnTAung9xAOC8fpiSbQ,124.15,-9.72,55.94,Float&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604161248&locale=ko&svcName=map_pcv5",
+            "surl": "https://naver.me/GYDAc2YO"
+        },
+        "2224": {
+            "statNm": "부산 - 남구 IFC",
+            "url": "https://map.naver.com/p/search/%EB%82%A8%EA%B5%AC%20ifc%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1551598479?c=17.37,0,0,1,adh&isCorrectAnswer=true&p=uv0FI3Jm5DPYvy-KZgnz1w,-120.56,0.05,80,Float",
+            "surl": "https://naver.me/5JqHVHeL"
+        },
+        "5052": {
+            "statNm": "부산 - 센텀시티",
+            "url": "https://map.naver.com/p/search/%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1318086627?c=16.66,0,0,1,adh&p=IChc2wYOyJE6dT3rLsTxsA,162.94,-3,50,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604161256&locale=ko&svcName=map_pcv5&searchText=%EC%84%BC%ED%85%80%EC%8B%9C%ED%8B%B0%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/xB7YshXC"
+        },
+        "1196": {
+            "statNm": "부산 - 해운대 파라다이스",
+            "url": "https://map.naver.com/p/search/%ED%95%B4%EC%9A%B4%EB%8C%80%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1203601636?c=17.52,0,0,1,adh&p=mzVUQHo6sCxHKY2N_v6QnQ,-7.06,-2.79,28.44,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604161300&locale=ko&svcName=map_pcv5&searchText=%ED%95%B4%EC%9A%B4%EB%8C%80%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/FyA1nnaM"
+        },
+        "4564": {
+            "statNm": "부산 - 기장",
+            "url": "https://map.naver.com/p/search/%EA%B8%B0%EC%9E%A5%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=15.66,0,0,1,adh&p=Jq9SY0JMiO3XIcMiuzyt3Q,99.87,-0.53,50,Float",
+            "surl": "https://naver.me/xjYXJghh"
         }
     },
     "dc": {
@@ -397,8 +467,8 @@
             "url": "https://map.naver.com/p/entry/place/1734922022?c=15.00,0,0,2,adh&p=goPU7nyYc2d4I6JLmMaEyg,-160,-6.13,80,Float",
             "surl": "https://naver.me/5bC3IPB6"
         },
-        "4105": {
-            "statNm": "세종 - AK플라자",
+        "sejongsupercharger": {
+            "statNm": "세종 어진 - AK플라자",
             "url": "https://map.naver.com/p/search/%EC%84%B8%EC%A2%85%20ak%ED%94%8C%EB%9D%BC%EC%9E%90%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1176360746?c=16.96,0,0,1,adh&isCorrectAnswer=true&p=SKPsAyJpVh3MgPoiLDsiaA,48.68,6.6,80,Float",
             "surl": "https://naver.me/5T0wXIPx"
         }
