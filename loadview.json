@@ -419,6 +419,56 @@
             "statNm": "천안 - 중앙교회",
             "url": "https://map.naver.com/p/entry/place/1851439187?c=16.89,0,0,1,adh&p=hU6q_mEBpr0fk9aZR-ibPQ,1.33,3.48,80,Float",
             "surl": "https://naver.me/xeFXcRtV"
+        },
+        "2215": {
+            "statNm": "당진",
+            "url": "https://map.naver.com/p/search/%EB%8B%B9%EC%A7%84%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1974756357?c=12.41,0,0,1,adh&p=RQh-MywvDYYHtYovjOSdkQ,1.94,3.78,80,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604161408&locale=ko&svcName=map_pcv5&searchText=%EB%8B%B9%EC%A7%84%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/FmGU2uy0"
+        },
+        "6058": {
+            "statNm": "행담도 모다아울렛",
+            "url": "https://map.naver.com/p/search/%ED%96%89%EB%8B%B4%EB%8F%84%20%EB%AA%A8%EB%8B%A4%EC%95%84%EC%9A%B8%EB%A0%9B%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1466935547?c=15.22,0,0,1,adh&isCorrectAnswer=true&p=QnCsz2z0vsjcQ-KyPTgtQA,-179.91,-7.97,80,Float",
+            "surl": "https://naver.me/FRo1caZW"
+        },
+        "7655": {
+            "statNm": "평택 - AK플라자",
+            "url": "https://map.naver.com/p/search/%ED%8F%89%ED%83%9D%20ak%ED%94%8C%EB%9D%BC%EC%9E%90%20%20%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/18955084?c=17.81,0,0,1,adh&p=flION7FD-j7UJtrer3IBww,-82.18,-5.96,80,Float&placePath=/home?bk_query=%ED%8F%89%ED%83%9D%20ak%ED%94%8C%EB%9D%BC%EC%9E%90%20%20%EC%A3%BC%EC%B0%A8%EC%9E%A5&entry=bmp&from=map&fromPanelNum=2&timestamp=202604161417&locale=ko&svcName=map_pcv5&searchText=%ED%8F%89%ED%83%9D%20ak%ED%94%8C%EB%9D%BC%EC%9E%90%20%20%EC%A3%BC%EC%B0%A8%EC%9E%A5",
+            "surl": "https://naver.me/5yhXBGl5"
+        },
+        "3903": {
+            "statNm": "평택 - 송탄",
+            "url": "https://map.naver.com/p/search/%ED%8F%89%ED%83%9D%20%EC%86%A1%ED%83%84%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1308117957?c=16.70,0,0,1,adh&isCorrectAnswer=true&p=sQ584vlo24bbnwj735uTuQ,23.7,0.17,45,Float",
+            "surl": "https://naver.me/xoGRHtO8"
+        },
+        "4395": {
+            "statNm": "안성",
+            "url": "https://map.naver.com/p/search/%EC%95%88%EC%84%B1%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80?c=14.63,0,0,1,adh&p=6KV9Tcaost1gimqo0hm6FA,103.36,-16.25,80,Float",
+            "surl": "https://naver.me/FBMke6io"
+        },
+        "3356": {
+            "statNm": "진천 - 루트스퀘어",
+            "url": "https://map.naver.com/p/search/%EC%A7%84%EC%B2%9C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1643653591?c=18.11,0,0,1,adh&p=co8ejGq6MYmB5b3dKqB0HA,133.79,-22.24,80,Float",
+            "surl": "https://naver.me/FM9RcRly"
+        },
+        "6131": {
+            "statNm": "음성 - 대소",
+            "url": "https://map.naver.com/p/search/%EC%9D%8C%EC%84%B1%20%EB%8C%80%EC%86%8C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1817412586?c=18.15,0,0,1,adh&isCorrectAnswer=true&p=1rREEhDsxJdIVFDhCtuLxQ,89.24,2.06,45,Float",
+            "surl": "https://naver.me/FiPiojfs"
+        },
+        "5980": {
+            "statNm": "음성 - 금왕",
+            "url": "https://map.naver.com/p/search/%EC%9D%8C%EC%84%B1%20%EA%B8%88%EC%99%95%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1760643364?c=15.89,0,0,1,adh&isCorrectAnswer=true&p=Roe083ozkD2F0KjNKXtDZw,109.19,1.67,45,Float",
+            "surl": "https://naver.me/FORX9hlS"
+        },
+        "6100": {
+            "statNm": "이천 - 테르메덴",
+            "url": "https://map.naver.com/p/search/%EC%9D%B4%EC%B2%9C%20%ED%85%8C%EB%A5%B4%EB%A9%94%EB%8D%B4%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1087402001?c=17.41,0,0,1,adh&isCorrectAnswer=true&p=vGewWyj9agI32ogZoNV5Iw,-3.25,1,45,Float",
+            "surl": "https://naver.me/xvCj33iG"
+        },
+        "3355": {
+            "statNm": "화성 - 발안",
+            "url": "https://map.naver.com/p/search/%ED%99%94%EC%84%B1%20%EB%B0%9C%EC%95%88%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1656379344?c=17.19,0,0,1,adh&isCorrectAnswer=true&p=FkWHTSg1FzE33GjiYNkNtA,5.58,-5.83,45,Float",
+            "surl": "https://naver.me/xzHFxlmD"
         }
     },
     "dc": {
