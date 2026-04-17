@@ -634,6 +634,21 @@
             "statNm": "서울 - 용산 드래곤시티",
             "url": "https://map.naver.com/p/search/%EC%9A%A9%EC%82%B0%20%EB%93%9C%EB%9E%98%EA%B3%A4%EC%8B%9C%ED%8B%B0%20%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/1247218089?c=17.63,0,0,1,adh&isCorrectAnswer=true&p=F5qi_olnVVHd_DKCo7HBpQ,-132.49,-6.45,80,Float",
             "surl": "https://naver.me/FORXFiSO"
+        },
+        "1460": {
+            "statNm": "서울 - 용산 그랜드하얏트",
+            "url": "https://map.naver.com/p/search/%EC%9A%A9%EC%82%B0%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%95%98%EC%96%8F%ED%8A%B8%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1358498511?c=17.63,0,0,1,adh&isCorrectAnswer=true&p=FMG0QkmzLBNqxYxjcdPRGA,9.65,-10.98,80,Float",
+            "surl": "https://naver.me/FvTKL80t"
+        },
+        "6502": {
+            "statNm": "서울 - 종각",
+            "url": "https://map.naver.com/p/search/%EC%A2%85%EA%B0%81%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1719488616?c=17.89,0,0,1,adh&isCorrectAnswer=true&p=7p_95QdkWLnKLRV_GQ7MCw,167.35,-11.73,80,Float",
+            "surl": "https://naver.me/5dhZ7FOH"
+        },
+        "5490": {
+            "statNm": "서울 - 성수 D타워",
+            "url": "https://map.naver.com/p/search/%EC%84%B1%EC%88%98%20d%ED%83%80%EC%9B%8C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1242572046?c=16.86,0,0,1,adh&p=daLSZigYbjEPfkhAb7ldWw,-158.58,3.98,50,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171159&locale=ko&svcName=map_pcv5&searchText=%EC%84%B1%EC%88%98%20d%ED%83%80%EC%9B%8C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/xWI1xEiP"
         }
     },
     "dc": {
