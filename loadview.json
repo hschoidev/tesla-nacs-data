@@ -649,6 +649,46 @@
             "statNm": "서울 - 성수 D타워",
             "url": "https://map.naver.com/p/search/%EC%84%B1%EC%88%98%20d%ED%83%80%EC%9B%8C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1242572046?c=16.86,0,0,1,adh&p=daLSZigYbjEPfkhAb7ldWw,-158.58,3.98,50,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171159&locale=ko&svcName=map_pcv5&searchText=%EC%84%B1%EC%88%98%20d%ED%83%80%EC%9B%8C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
             "surl": "https://naver.me/xWI1xEiP"
+        },
+        "3477": {
+            "statNm": "서울 - 왕십리",
+            "url": "https://map.naver.com/p/search/%EB%B9%84%ED%8A%B8%ED%94%8C%EB%A0%89%EC%8A%A4%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EC%9E%85%EA%B5%AC/place/18778860?c=18.00,0,0,1,adh&isCorrectAnswer=true&p=4RFKw8-DXVCpf-XPEjGDqg,-11.56,0.84,38.75,Float",
+            "surl": "https://naver.me/Fsok8s7E"
+        },
+        "7963": {
+            "statNm": "서울 - 팩토리얼 성수",
+            "url": "https://map.naver.com/p/search/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%84%B1%EC%88%98%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1699279494?c=17.63,0,0,1,adh&isCorrectAnswer=true&p=CeXz0FqMVpwjWKww-uiXyw,-150.62,-1.09,80,Float",
+            "surl": "https://naver.me/x4lHY6wV"
+        },
+        "3813": {
+            "statNm": "서울 - 청량리",
+            "url": "https://map.naver.com/p/search/%EC%B2%AD%EB%9F%89%EB%A6%AC%20%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EC%9E%85%EA%B5%AC/place/19469678?c=18.08,0,0,1,adh&p=UAZCjoL8yELOOaVcgr8K2A,93.93,-4.89,53.75,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171235&locale=ko&svcName=map_pcv5&searchText=%EC%B2%AD%EB%9F%89%EB%A6%AC%20%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EC%9E%85%EA%B5%AC",
+            "surl": "https://naver.me/G9UhPgpn"
+        },
+        "4346": {
+            "statNm": "서울 - 수유",
+            "url": "https://map.naver.com/p/search/%EC%88%98%EC%9C%A0%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1196545738?c=18.29,0,0,1,adh&p=wHpsp4--t_BMZujIHLTktA,76.64,0.62,45,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171237&locale=ko&svcName=map_pcv5&searchText=%EC%88%98%EC%9C%A0%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/IDkKrmrC"
+        },
+        "3630": {
+            "statNm": "서울 - 강북 파라스파라",
+            "url": "https://map.naver.com/p/search/%ED%8C%8C%EB%9D%BC%EC%8A%A4%ED%8C%8C%EB%9D%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1242526739?c=17.15,0,0,1,adh&isCorrectAnswer=true&p=T-7vXXSbRjjqRF04Z03ZaQ,10.85,-0.47,55.94,Float",
+            "surl": "https://naver.me/GwfR2nR9"
+        },
+        "7396": {
+            "statNm": "의정부 - 장암 우리나라",
+            "url": "https://map.naver.com/p/search/%EC%9D%98%EC%A0%95%EB%B6%80%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1508191246?c=18.08,0,0,1,adh&isCorrectAnswer=true&p=ePudoTqhfMix5DYPiD4t8w,38.27,-9.44,50,Float",
+            "surl": "https://naver.me/59l2IHyI"
+        },
+        "5048": {
+            "statNm": "구리 - 모다아울렛",
+            "url": "https://map.naver.com/p/search/%EA%B5%AC%EB%A6%AC%20%EB%AA%A8%EB%8B%A4%EC%95%84%EC%9A%B8%EB%A0%9B%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1534477025?c=17.23,0,0,1,adh&isCorrectAnswer=true&p=xPt3k0oIhUrbASgLm9ltNg,-56,-2.57,80,Float",
+            "surl": "https://naver.me/574NT2a4"
+        },
+        "8555": {
+            "statNm": "서울 - 중랑",
+            "url": "https://map.naver.com/p/search/%EC%A4%91%EB%9E%91%20%EC%9D%B4%EB%85%B8%EC%8B%9C%ED%8B%B0?c=17.59,0,0,1,adh&p=KP4ExR0Y22PP4HqiBWfGlA,94.51,-2.16,80,Float",
+            "surl": "https://naver.me/xm0qU3Vl"
         }
     },
     "dc": {
