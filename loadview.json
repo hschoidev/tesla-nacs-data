@@ -820,6 +820,16 @@
             "url": "https://map.naver.com/p/search/%EA%B0%95%EB%82%A8%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1985845848?c=17.48,0,0,1,adh&p=S2t8N3ykgL46c9ialHL2lg,148.11,-10.06,80,Float",
             "surl": "https://naver.me/xYNkIlb3"
         },
+        "5753": {
+            "statNm": "서울 - 대치",
+            "url": "https://map.naver.com/p/search/%EB%8C%80%EC%B9%98%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1167332195?c=13.00,0,0,1,adh&p=AgojtVpZ9n35QAKjEyfUEw,138.39,-6.66,80,Float",
+            "surl": "https://naver.me/FZozEkrt"
+        },
+        "6090": {
+            "statNm": "서울 - 에피소드 서초",
+            "url": "https://map.naver.com/p/search/%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C%EC%84%9C%EC%B4%88%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1648474199?c=17.12,0,0,1,adh&isCorrectAnswer=true&p=pMeFfRz32UnElW_YoL0a5A,-26.31,-4.64,80,Float",
+            "surl": "https://naver.me/GuCouMSP"
+        },
         "4397": {
             "statNm": "서울 - 잠실 롯데월드",
             "url": "https://map.naver.com/p/search/%EC%9E%A0%EC%8B%A4%20%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1352060557?c=15.85,0,0,1,adh&p=Yon3t6SRzu4OeYDJUHWhow,116.23,-3.75,50,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171534&locale=ko&svcName=map_pcv5&searchText=%EC%9E%A0%EC%8B%A4%20%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
@@ -849,6 +859,21 @@
             "statNm": "하남 - 스타필드",
             "url": "https://map.naver.com/p/search/%ED%95%98%EB%82%A8%20%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1891280957?c=17.23,0,0,1,adh&p=7J1WwDpHk5J9VdtclDoLkg,52.92,1.67,53.75,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171659&locale=ko&svcName=map_pcv5&searchText=%ED%95%98%EB%82%A8%20%EC%8A%A4%ED%83%80%ED%95%84%EB%93%9C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
             "surl": "https://naver.me/5RAQSMlH"
+        },
+        "1418": {
+            "statNm": "속초 - 롯데리조트",
+            "url": "https://map.naver.com/p/search/%EC%86%8D%EC%B4%88%20%EB%A1%AF%EB%8D%B0%EB%A6%AC%EC%A1%B0%ED%8A%B8%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1765100721?c=16.34,0,0,1,adh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604171708&locale=ko&svcName=map_pcv5&searchText=%EC%86%8D%EC%B4%88%20%EB%A1%AF%EB%8D%B0%EB%A6%AC%EC%A1%B0%ED%8A%B8%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80&p=BfY0sTkQ_C7IwFIk9Pvlxg,-5.67,-8.84,45,Float",
+            "surl": "https://naver.me/x9VZjmEn"
+        },
+        "3332": {
+            "statNm": "충주 - 대소원 홈마트",
+            "url": "https://map.naver.com/p/search/%EC%B6%A9%EC%A3%BC%20%EB%8C%80%EC%86%8C%EC%9B%90%20%ED%99%88%EB%A7%88%ED%8A%B8%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1237761546?c=17.55,0,0,1,adh&isCorrectAnswer=true&p=SzkmX8esrIoa-PwzjWs4tQ,48.42,7.76,80,Float",
+            "surl": "https://naver.me/FetvZa0l"
+        },
+        "4396": {
+            "statNm": "춘천 - ENTA 2022",
+            "url": "https://map.naver.com/p/search/%EC%B6%98%EC%B2%9C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1206357320?c=17.49,0,0,1,adh&p=J_F6SF_RcJs4Z3RQLuQQMg,-139.36,0.33,45,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171712&locale=ko&svcName=map_pcv5&searchText=%EC%B6%98%EC%B2%9C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/F7FSivhb"
         }
     },
     "dc": {
