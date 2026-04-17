@@ -519,6 +519,121 @@
             "statNm": "수원 - AK플라자",
             "url": "https://map.naver.com/p/search/%EC%88%98%EC%9B%90%20ak%ED%94%8C%EB%9D%BC%EC%9E%90%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EC%9E%85%EA%B5%AC?c=18.00,0,0,1,adh&p=vkanPvt43ddzk1kxxn29Gg,106.14,-0.65,80,Float",
             "surl": "https://naver.me/FG3hEpBr"
+        },
+        "4114": {
+            "statNm": "광교 - 중앙 롯데아울렛",
+            "url": "https://map.naver.com/p/search/%EA%B4%91%EA%B5%90%20%EB%A1%AF%EB%8D%B0%EC%95%84%EC%9A%B8%EB%A0%9B%20%EC%8A%88%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1825708579?c=16.63,0,0,1,adh&p=IkCI8oDWvKkTjq_arRUzog,42.39,0.05,80,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604161648&locale=ko&svcName=map_pcv5&searchText=%EA%B4%91%EA%B5%90%20%EB%A1%AF%EB%8D%B0%EC%95%84%EC%9A%B8%EB%A0%9B%20%EC%8A%88%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/FCZXz3aj"
+        },
+        "3778": {
+            "statNm": "광교",
+            "url": "https://map.naver.com/p/search/%EA%B4%91%EA%B5%90%20%EC%8A%88%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1228994056?c=17.81,0,0,1,adh&p=WY35ftIdgCaAClp1HezrgA,-86.48,-6.23,80,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171016&locale=ko&svcName=map_pcv5&searchText=%EA%B4%91%EA%B5%90%20%EC%8A%88%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/FZoznEHI"
+        },
+        "8556": {
+            "statNm": "안산 - 중앙역 환승 주차장",
+            "url": "https://map.naver.com/p/search/%EC%95%88%EC%82%B0%20%20%EC%A4%91%EC%95%99%EC%97%AD%20%ED%99%98%EC%8A%B9%EC%A3%BC%EC%B0%A8%EC%9E%A5?c=18.26,0,0,1,adh&p=1IrxT3X5PJwpfdk4ZmPnMA,-7.6,-9.68,80,Float",
+            "surl": "https://naver.me/F050rH9E"
+        },
+        "2222": {
+            "statNm": "인천 - 송도 트리플스트리트",
+            "url": "https://map.naver.com/p/search/%EC%86%A1%EB%8F%84%ED%8A%B8%EB%A6%AC%ED%94%8C%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%EC%9E%85%EA%B5%AC/place/1567372773?c=16.85,0,0,1,adh&p=yXMzwIoTfSEZZPxSbNol2Q,173.9,-2.75,45,Float",
+            "surl": "https://naver.me/x0OM46kD"
+        },
+        "3729": {
+            "statNm": "인천 - 동춘",
+            "url": "https://map.naver.com/p/search/%EB%8F%99%EC%B6%98%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1010061470?c=18.08,0,0,1,adh&isCorrectAnswer=true&p=kZlbSSBBbIlngc-AaFIddQ,-51.04,-6.33,50,Float",
+            "surl": "https://naver.me/FCZXzFLJ"
+        },
+        "7146": {
+            "statNm": "인천 - 연수",
+            "url": "https://map.naver.com/p/search/%EC%97%B0%EC%88%98%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1388394865?c=16.96,0,0,1,adh&p=6c1gkYs3drAYd7iJD8W5hg,-164.15,-7.69,80,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171033&locale=ko&svcName=map_pcv5&searchText=%EC%97%B0%EC%88%98%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/xG0KAugK"
+        },
+        "5764": {
+            "statNm": "인천 - 영종 그랜드하얏트 서관",
+            "url": "https://map.naver.com/p/search/%EC%98%81%EC%A2%85%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%95%98%EC%96%8F%ED%8A%B8%20%EC%84%9C%EA%B4%80%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1262040949?c=17.73,0,0,1,adh&isCorrectAnswer=true&p=sml2dcjIgOvhXExVxYmbKg,29.01,-7.31,45,Float",
+            "surl": "https://naver.me/GZDnKr2O"
+        },
+        "5765": {
+            "statNm": "인천 - 영종 그랜드하얏트 동관",
+            "url": "https://map.naver.com/p/search/%EC%98%81%EC%A2%85%20%EA%B7%B8%EB%9E%9C%EB%93%9C%ED%95%98%EC%96%8F%ED%8A%B8%20%EB%8F%99%EA%B4%80%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1290366596?c=17.63,0,0,1,adh&isCorrectAnswer=true&p=oWdaVu2Zmq4y9Z7p0hzT0Q,120.36,0.57,80,Float",
+            "surl": "https://naver.me/5FD3YSRy"
+        },
+        "6583": {
+            "statNm": "강화 - 씨사이드리조트",
+            "url": "https://map.naver.com/p/search/%EC%94%A8%EC%82%AC%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%A1%B0%ED%8A%B8%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1194549609?c=19.11,0,0,1,adh&isCorrectAnswer=true&p=SEOF3Iu0ZquF6VOEfS1W0g,104.95,-11.43,80,Float",
+            "surl": "https://naver.me/Gjy3Il2K"
+        },
+        "3928": {
+            "statNm": "김포 - 구래",
+            "url": "https://map.naver.com/p/search/%EC%B9%B4%EB%A6%BC%EC%95%A0%EB%B9%84%EB%89%B4%20%EC%A3%BC%EC%B0%A8%EC%9E%A5?c=16.48,0,0,1,adh&p=qoHwycmvcmzV96r7Kij57w,-142.13,-0.08,80,Float",
+            "surl": "https://naver.me/GdTVIhUc"
+        },
+        "3949": {
+            "statNm": "인천 - 청라 스퀘어7",
+            "url": "https://map.naver.com/p/search/%EC%B2%AD%EB%9D%BC%EC%8A%A4%ED%80%98%EC%96%B47?c=16.86,0,0,1,adh&p=kEhwhDn4eOwXb5hklqzVZA,82.87,1.52,80,Float",
+            "surl": "https://naver.me/xbKpgqMK"
+        },
+        "7619": {
+            "statNm": "인천 - 모다아울렛",
+            "url": "https://map.naver.com/p/entry/place/1330992756?c=17.79,0,0,1,adh&p=bmPE61mN7YUqECXxIswbXg,78.26,0.74,45,Float",
+            "surl": "https://naver.me/GqfJroIG"
+        },
+        "3703": {
+            "statNm": "인천 - 미추홀 앨리웨이",
+            "url": "https://map.naver.com/p/search/%EB%AF%B8%EC%B6%94%ED%99%80%20%EC%97%98%EB%A6%AC%EC%9B%A8%EC%9D%B4?c=16.30,0,0,1,adh&p=SNfQjxBMb3YsDKCW1GHTrQ,143.17,1.05,45,Float",
+            "surl": "https://naver.me/x9VZtYiJ"
+        },
+        "5051": {
+            "statNm": "부천",
+            "url": "https://map.naver.com/p/search/%EB%B6%80%EC%B2%9C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1014385329?c=17.12,0,0,1,adh&p=j6YZpRTiHiew_Pd7SdbDaQ,73.29,-0.51,80,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171101&locale=ko&svcName=map_pcv5&searchText=%EB%B6%80%EC%B2%9C%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/GUTLOBvc"
+        },
+        "2216": {
+            "statNm": "서울 - 김포공항 롯데몰",
+            "url": "https://map.naver.com/p/search/%EA%B9%80%ED%8F%AC%EA%B3%B5%ED%95%AD%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1191150370?c=15.00,0,0,1,adh&isCorrectAnswer=true&p=oHy4mIew1LzIc6Z7clVgew,176.17,7.91,80,Float",
+            "surl": "https://naver.me/FRo1XtrM"
+        },
+        "6123": {
+            "statNm": "고양 - 행주",
+            "url": "https://map.naver.com/p/search/%ED%96%89%EC%A3%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1077810358?c=18.30,0,0,1,adh&isCorrectAnswer=true&p=BOWSCU7iiXEbQ1Pk5FMGiw,-150.36,2.54,47.19,Float",
+            "surl": "https://naver.me/5UV9iQKv"
+        },
+        "3283": {
+            "statNm": "고양 - 일산 N2워시",
+            "url": "https://map.naver.com/p/search/%EC%9D%BC%EC%82%B0%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1268076216?c=17.33,0,0,1,adh&p=g6LOEGJYGr1Q6_EGX6GfnQ,-179.56,0.9,80,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604171114&locale=ko&svcName=map_pcv5&searchText=%EC%9D%BC%EC%82%B0%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80",
+            "surl": "https://naver.me/Gi0bzMmG"
+        },
+        "1528": {
+            "statNm": "고양",
+            "url": "https://map.naver.com/p/search/%EA%B3%A0%EC%96%91%20%EC%86%8C%EB%85%B8%EC%BA%84%ED%98%B8%ED%85%94%20%20%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/38408096?c=16.56,0,0,1,adh&isCorrectAnswer=true&p=1isIpq07SJZgdYmlp19aYA,55.11,-8.53,80,Float",
+            "surl": "https://naver.me/5dhZ7qU0"
+        },
+        "5739": {
+            "statNm": "고양 - 원마운트",
+            "url": "https://map.naver.com/p/search/%EA%B3%A0%EC%96%91%20%EC%9B%90%EB%A7%88%EC%9A%B4%ED%8A%B8%20%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/934008817?c=17.81,0,0,1,adh&p=f12v7isdg7gn_WsBV14fZw,97.03,1.13,50,Float",
+            "surl": "https://naver.me/GbyYSQAd"
+        },
+        "5751": {
+            "statNm": "파주 - 문스터담",
+            "url": "https://map.naver.com/p/search/%ED%8C%8C%EC%A3%BC%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1546497996?c=18.70,0,0,1,adh&isCorrectAnswer=true&p=H8zCrmXzdKw10RbG2L3dCw,-8.61,8.94,47.19,Float",
+            "surl": "https://naver.me/F93ElIMq"
+        },
+        "5050": {
+            "statNm": "고양 - 도내동",
+            "url": "https://map.naver.com/p/search/%EA%B3%A0%EC%96%91%20%EB%8F%84%EB%82%B4%EB%8F%99%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1502128211?c=16.07,0,0,1,adh&isCorrectAnswer=true&p=o6bMmwHaJMm7Ml8y6UyjUA,-38.77,2.68,45,Float",
+            "surl": "https://naver.me/GxrpDXKC"
+        },
+        "5752": {
+            "statNm": "서울 - 상암",
+            "url": "https://map.naver.com/p/search/%EC%83%81%EC%95%94%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1521574350?c=18.30,0,0,1,adh&isCorrectAnswer=true&p=cqMoUwdDDhFriA6aOTZV8A,-149.93,-10.92,80,Float",
+            "surl": "https://naver.me/FmGUArIj"
+        },
+        "6281": {
+            "statNm": "서울 - 용산 드래곤시티",
+            "url": "https://map.naver.com/p/search/%EC%9A%A9%EC%82%B0%20%EB%93%9C%EB%9E%98%EA%B3%A4%EC%8B%9C%ED%8B%B0%20%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/1247218089?c=17.63,0,0,1,adh&isCorrectAnswer=true&p=F5qi_olnVVHd_DKCo7HBpQ,-132.49,-6.45,80,Float",
+            "surl": "https://naver.me/FORXFiSO"
         }
     },
     "dc": {
