@@ -961,6 +961,51 @@
             "statNm": "세종 어진 - AK플라자",
             "url": "https://map.naver.com/p/search/%EC%84%B8%EC%A2%85%20ak%ED%94%8C%EB%9D%BC%EC%9E%90%20%EC%88%98%ED%8D%BC%EC%B0%A8%EC%A0%80/place/1176360746?c=16.96,0,0,1,adh&isCorrectAnswer=true&p=SKPsAyJpVh3MgPoiLDsiaA,48.68,6.6,80,Float",
             "surl": "https://naver.me/5T0wXIPx"
+        },
+        "52607": {
+            "statNm": "럭셔리몰임팩트광주명품백화점",
+            "url": "https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%83%81%EB%AC%B4%EB%8C%80%EB%A1%9C%20509%20/address/3zb7jC,2z8onw,%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%83%81%EB%AC%B4%EB%8C%80%EB%A1%9C%20509?c=17.85,0,0,1,adh&isCorrectAnswer=true&p=W4NzaVUC5ig1RJhPQUn3Fw,-90.15,-9.98,80,Float",
+            "surl": "https://naver.me/F1aFHgTj"
+        },
+        "dc585981": {
+            "statNm": "제일볼링센터",
+            "url": "https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%20%EC%A0%9C%EC%9D%BC%EB%B3%BC%EB%A7%81%EC%84%BC%ED%84%B0?c=17.41,0,0,1,adh&p=aNSvdVAFbQIMffao1CtPVg,48.37,-3.13,50,Float",
+            "surl": "https://naver.me/FdqJbAin"
+        },
+        "dc79999": {
+            "statNm": "포레스트 96",
+            "url": "https://map.naver.com/p/search/%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B896?c=17.41,0,0,1,adh&p=zS5JOXii01Qd_yjxR_8l5w,118.53,3.27,53.75,Float",
+            "surl": "https://naver.me/FhuRei1a"
+        },
+        "404264": {
+            "statNm": "한일렌트카",
+            "url": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%20%EC%99%84%EC%82%B0%EA%B5%AC%20%EC%91%A5%EA%B3%A0%EA%B0%9C%EB%A1%9C%20301-15/address/3zmFhJ,2zA1gC,%EC%A0%84%EB%B6%81%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EC%99%84%EC%82%B0%EA%B5%AC%20%EC%91%A5%EA%B3%A0%EA%B0%9C%EB%A1%9C%20301-15?c=18.93,0,0,1,adh&isCorrectAnswer=true&p=shpPVUolFXg61M7HYcE-jA,-58.07,0.66,45,Float",
+            "surl": "https://naver.me/5bC3kKD7"
+        },
+        "jeonjusupercharger": {
+            "statNm": "전주 - 효자몰 (지하2층)",
+            "url": "https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%20%ED%9A%A8%EC%9E%90%EB%AA%B0%20%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/949758348?c=16.70,0,0,1,adh&p=ToG99LfvE0eDEI-dZ1u2Dg,142.03,5.68,50,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604201610&locale=ko&svcName=map_pcv5&searchText=%EC%A0%84%EC%A3%BC%20%ED%9A%A8%EC%9E%90%EB%AA%B0%20%EC%A3%BC%EC%B0%A8%EC%9E%A5",
+            "surl": "https://naver.me/G3vLEWUL"
+        },
+        "dc71701": {
+            "statNm": "그린 빌딩",
+            "url": "https://map.naver.com/p/search/%EB%8C%80%EA%B0%80%EC%95%BC%EC%9D%8D%20%EC%99%95%EB%A6%89%EB%A1%9C%20114/address/3A9Na0,2zwYaa,%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%20%EA%B3%A0%EB%A0%B9%EA%B5%B0%20%EB%8C%80%EA%B0%80%EC%95%BC%EC%9D%8D%20%EC%99%95%EB%A6%89%EB%A1%9C%20114?c=18.56,0,0,1,adh&isCorrectAnswer=true&p=rduq3TM9O0TotCM2xYzl8w,111.23,-1.56,45,Float",
+            "surl": "https://naver.me/FFqQ1bRB"
+        },
+        "dc572132": {
+            "statNm": "사랑채 한방오리",
+            "url": "https://map.naver.com/p/entry/place/1429496126?c=15.00,0,0,1,adh&p=F9ITD_Sse2qZwixVyi-_fQ,113.3,-5.22,80,Float&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604201631&locale=ko&svcName=map_pcv5",
+            "surl": "https://naver.me/x0OMB1tJ"
+        },
+        "dc28516": {
+            "statNm": "한화리조트 해운대 티볼리",
+            "url": "https://map.naver.com/p/search/%ED%95%9C%ED%99%94%EB%A6%AC%EC%A1%B0%ED%8A%B8%20%ED%95%B4%EC%9A%B4%EB%8C%80%20%20%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/1674902915?c=18.08,0,0,1,adh&p=cx0jL7udfZDScx2PyNIEwA,-130.25,-7.55,80,Float&placePath=/home?from=map&fromPanelNum=2&timestamp=202604201634&locale=ko&svcName=map_pcv5&searchText=%ED%95%9C%ED%99%94%EB%A6%AC%EC%A1%B0%ED%8A%B8%20%ED%95%B4%EC%9A%B4%EB%8C%80%20%20%EC%A3%BC%EC%B0%A8%EC%9E%A5",
+            "surl": "https://naver.me/xJcLEN5C"
+        },
+        "dc31919": {
+            "statNm": "간절곶 까르마레 펜션",
+            "url": "https://map.naver.com/p/entry/place/1361697708?c=18.52,0,0,1,adh&p=vTSbFF79wqMMPjBiMiXEqg,171.83,-4.31,45,Float",
+            "surl": "https://naver.me/F5sXiXKO"
         }
     },
     "nacs": {
