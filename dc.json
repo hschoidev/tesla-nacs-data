@@ -391,20 +391,6 @@
         "stallCount": 6,
         "powerKilowattL": 7
     },
-    "buyeosupercharger": {
-        "type": "destinationcharger",
-        "statId": "buyeosupercharger",
-        "statNm": "부여 - 롯데프리미엄아울렛",
-        "bnm": "데스티네이션차저",
-        "lat": 36.305926,
-        "lng": 126.900338,
-        "addr": "충남 부여군 규암면 백제문로 387, 롯데아울렛 부여",
-        "phone": "041-435-2500",
-        "webSite": null,
-        "accessHours": "일반인이 연중무휴 24시간 이용 가능. 직접 주차",
-        "stallCount": 5,
-        "powerKilowattL": 7
-    },
     "teslabucheonlottedepartmentsupercharger": {
         "type": "destinationcharger",
         "statId": "teslabucheonlottedepartmentsupercharger",
