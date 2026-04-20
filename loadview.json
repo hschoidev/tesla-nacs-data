@@ -1006,6 +1006,21 @@
             "statNm": "간절곶 까르마레 펜션",
             "url": "https://map.naver.com/p/entry/place/1361697708?c=18.52,0,0,1,adh&p=vTSbFF79wqMMPjBiMiXEqg,171.83,-4.31,45,Float",
             "surl": "https://naver.me/F5sXiXKO"
+        },
+        "Daejeon": {
+            "statNm": "대전 서구 - 롯데백화점",
+            "url": "https://map.naver.com/p/search/%EB%8C%80%EC%A0%84%20%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90/place/12133963?c=17.04,0,0,1,adh&isCorrectAnswer=true&p=cxVDWh_J6g4_oltOYmQhSw,-149.51,-4.16,64.69,Float",
+            "surl": "https://naver.me/xRg69wxC"
+        },
+        "sejongsupercharger": {
+            "statNm": "세종 어진 - AK플라자",
+            "url": "https://map.naver.com/p/search/%EC%84%B8%EC%A2%85%20ak%ED%94%8C%EB%9D%BC%EC%9E%90?c=17.17,0,0,1,adh&p=qg1u_7Poh0R94_Y1InLa7A,9.08,-0.15,80,Float",
+            "surl": "https://naver.me/5p0U8pYD"
+        },
+        "dc1128842": {
+            "statNm": "스테이폴리오 - 제로플레이스",
+            "url": "https://map.naver.com/p/search/%EC%A0%9C%EB%A1%9C%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4?c=19.59,0,0,1,adh&p=ExjbRGyJakqMwYGcOFVmiQ,-136.7,-4.97,45,Float",
+            "surl": "https://naver.me/56XrBA2h"
         }
     },
     "nacs": {
