@@ -1021,6 +1021,16 @@
             "statNm": "스테이폴리오 - 제로플레이스",
             "url": "https://map.naver.com/p/search/%EC%A0%9C%EB%A1%9C%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4?c=19.59,0,0,1,adh&p=ExjbRGyJakqMwYGcOFVmiQ,-136.7,-4.97,45,Float",
             "surl": "https://naver.me/56XrBA2h"
+        },
+        "52388": {
+            "statNm": "포춘테일",
+            "url": "https://map.naver.com/p/search/%ED%8F%AC%EC%B6%98%ED%85%8C%EC%9D%BC?c=16.56,0,0,1,adh&p=jw8C0bILXmQJTeKbIeGUqQ,-72.49,-6.23,50,Float",
+            "surl": "https://naver.me/G9Uh4Vqv"
+        },
+        "superchargerpajumunsterdam": {
+            "statNm": "파주 - 뮌스터담",
+            "url": "https://map.naver.com/p/entry/place/1546497996?c=18.70,0,0,1,adh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604211542&locale=ko&svcName=map_pcv5&p=H8zCrmXzdKw10RbG2L3dCw,1.58,5.89,80,Float",
+            "surl": "https://naver.me/xM50NaTc"
         }
     },
     "nacs": {
