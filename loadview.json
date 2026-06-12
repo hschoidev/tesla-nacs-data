@@ -1410,6 +1410,12 @@
             "url": "https://map.naver.com/p/search/%EC%B1%84%EB%B9%84%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EA%B0%95%EB%82%A8%EC%84%9C%EC%B4%88%EC%84%BC%ED%84%B0/place/1336024677?c=15.00,0,0,3,adh&isCorrectAnswer=true&p=j1fQkwI7PYvLek76mg6SZg,26.98,-5,55.94,Float",
             "surl": "https://naver.me/5Yo1KbNb"
         },
+        "SGMAC060": {
+            "statId": "SGMAC060",
+            "statNm": "신탄진휴게소(국도부)",
+            "url": "https://map.naver.com/p/search/%EC%8B%A0%ED%83%84%EC%A7%84%ED%9C%B4%EA%B2%8C%EC%86%8C/place/1049825093?c=18.48,0,0,0,adh&placePath=/home?bk_query=%EC%8B%A0%ED%83%84%EC%A7%84%ED%9C%B4%EA%B2%8C%EC%86%8C&entry=bmp&from=map&fromPanelNum=2&timestamp=202606121416&locale=ko&svcName=map_pcv5&searchText=%EC%8B%A0%ED%83%84%EC%A7%84%ED%9C%B4%EA%B2%8C%EC%86%8C&p=hM5NsCyxXk7BRwgPe1I2rg,-115.3,-14.72,80,Float",
+            "surl": "https://naver.me/GWW0pNq5"
+        },
         "ST601540": {
             "statId": "ST601540",
             "statNm": "김제휴게소(새만금)",
