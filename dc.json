@@ -1076,5 +1076,19 @@
         "accessHours": "일반인이 연중무휴 24시간 이용 가능. 직접 주차",
         "stallCount": 1,
         "powerKilowattL": 10
+    },
+    "dc_custom_1": {
+        "type": "destinationcharger",
+        "statId": "dc_custom_1",
+        "statNm": "스테이폴리오 - 우주오리",
+        "bnm": "데스티네이션차저",
+        "lat": 33.3379539,
+        "lng": 126.2632627,
+        "addr": "제주 제주시 한경면 저지12길 62-14",
+        "phone": "1670-4948",
+        "webSite": "https://www.space-duck.com/",
+        "accessHours": "고객용, 셀프 주차",
+        "stallCount": 1,
+        "powerKilowattL": null
     }
 }
