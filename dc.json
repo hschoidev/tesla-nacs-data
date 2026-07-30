@@ -1087,8 +1087,22 @@
         "addr": "제주 제주시 한경면 저지12길 62-14",
         "phone": "1670-4948",
         "webSite": "https://www.space-duck.com/",
-        "accessHours": "고객용, 셀프 주차",
+        "accessHours": "고객용, 직접 주차",
         "stallCount": 1,
         "powerKilowattL": null
+    },
+    "dc_custom_2": {
+        "type": "destinationcharger",
+        "statId": "dc_custom_2",
+        "statNm": "엠제이벤처오름",
+        "bnm": "데스티네이션차저",
+        "lat": 33.4545643,
+        "lng": 126.5719536,
+        "addr": "제주 제주시 첨단로 199",
+        "phone": null,
+        "webSite": null,
+        "accessHours": "공용, 직접 주차",
+        "stallCount": 3,
+        "powerKilowattL": 6
     }
 }
