@@ -1146,5 +1146,47 @@
         "accessHours": "고객용, 직접 주차",
         "stallCount": 1,
         "powerKilowattL": 7
+    },
+    "dc_custom_6": {
+        "type": "destinationcharger",
+        "statId": "dc_custom_6",
+        "statNm": "순천",
+        "bnm": "데스티네이션차저",
+        "lat": 34.9632230,
+        "lng": 127.5255281,
+        "addr": "전남광주통합특별시 순천시 조례동 640",
+        "phone": null,
+        "webSite": null,
+        "accessHours": "공용, 직접 주차",
+        "stallCount": 4,
+        "powerKilowattL": 7
+    },
+    "dc_custom_7": {
+        "type": "destinationcharger",
+        "statId": "dc_custom_7",
+        "statNm": "하동",
+        "bnm": "데스티네이션차저",
+        "lat": 35.0298934,
+        "lng": 127.9039215,
+        "addr": "경남 하동군 진교면 강변길 13-1",
+        "phone": null,
+        "webSite": null,
+        "accessHours": "공용, 직접 주차",
+        "stallCount": 3,
+        "powerKilowattL": 10
+    },
+    "dc_custom_8": {
+        "type": "destinationcharger",
+        "statId": "dc_custom_8",
+        "statNm": "시찬스게스트하우스",
+        "bnm": "데스티네이션차저",
+        "lat": 34.9043971,
+        "lng": 128.2744412,
+        "addr": "경남 고성군 삼산면 두포1길 166-5",
+        "phone": "0502-5554-1828",
+        "webSite": "http://cafe.naver.com/sichanshouse",
+        "accessHours": "고객용, 프론트 데스트 문의",
+        "stallCount": 2,
+        "powerKilowattL": 7
     }
 }
