@@ -1128,7 +1128,21 @@
         "lng": 126.6346312,
         "addr": "제주 제주시 조천읍 조천7길 19-12",
         "phone": "1670-4948",
-        "webSite": "https://www.blindwhale.co.k",
+        "webSite": "https://www.blindwhale.co.kr",
+        "accessHours": "고객용, 직접 주차",
+        "stallCount": 1,
+        "powerKilowattL": 7
+    },
+    "dc_custom_5": {
+        "type": "destinationcharger",
+        "statId": "dc_custom_5",
+        "statNm": "스테이폴리오 - 어라운드폴리",
+        "bnm": "데스티네이션차저",
+        "lat": 33.4148968,
+        "lng": 126.8363828,
+        "addr": "제주 서귀포시 성산읍 서성일로 433",
+        "phone": "064-783-6226",
+        "webSite": "http://www.aroundfollie.com",
         "accessHours": "고객용, 직접 주차",
         "stallCount": 1,
         "powerKilowattL": 7
