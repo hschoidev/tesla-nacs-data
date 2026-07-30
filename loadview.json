@@ -1056,6 +1056,26 @@
             "statNm": "파주 - 뮌스터담",
             "url": "https://map.naver.com/p/entry/place/1546497996?c=18.70,0,0,1,adh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604211542&locale=ko&svcName=map_pcv5&p=H8zCrmXzdKw10RbG2L3dCw,1.58,5.89,80,Float",
             "surl": "https://naver.me/xM50NaTc"
+        },
+        "dc_custom_1": {
+            "statNm": "스테이폴리오 - 우주오리",
+            "url": "https://map.naver.com/p/search/%EC%9A%B0%EC%A3%BC%EC%98%A4%EB%A6%AC?c=20.00,0,0,1,adh&p=_lJpI4LgXgZwPpo-mJazNw,15.63,-5.79,80,Float",
+            "surl": "https://naver.me/5qLKHpmk"
+        },
+        "dc_custom_3": {
+            "statNm": "스테이폴리오 - 조천마실",
+            "url": "https://map.naver.com/p/search/%EC%A1%B0%EC%B2%9C%EB%A7%88%EC%8B%A4?c=19.82,0,0,1,adh&p=0mB88nOnuY_-chLeGl0thg,53.04,-13.68,80,Float",
+            "surl": "https://naver.me/5t7QiTvD"
+        },
+        "dc_custom_4": {
+            "statNm": "스테이폴리오 - 눈먼고래",
+            "url": "https://map.naver.com/p/search/%EB%88%88%EB%A8%BC%EA%B3%A0%EB%9E%98/place/35581209?c=19.41,0,0,1,adh&isCorrectAnswer=true&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202607301304%26locale%3Dko%26svcName%3Dmap_pcv5%26searchText%3D%EB%88%88%EB%A8%BC%EA%B3%A0%EB%9E%98%26businessCategory%3Dguesthouse&p=r7HOKSL3gtj9AjWpSNrOKw,-130.38,0.19,47.19,Float",
+            "surl": "https://naver.me/Fso47JuN"
+        },
+        "dc_custom_5": {
+            "statNm": "스테이폴리오 - 어라운드폴리",
+            "url": "https://map.naver.com/p/search/%EC%96%B4%EB%9D%BC%EC%9A%B4%EB%93%9C%ED%8F%B4%EB%A6%AC?c=18.08,0,0,1,adh&p=6WnBv11cram0TwfMHPlDQg,30.08,-4.04,80,Float",
+            "surl": "https://naver.me/G0pkst4H"
         }
     },
     "nacs": {
