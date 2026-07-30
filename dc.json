@@ -1104,7 +1104,7 @@
         "accessHours": "공용, 직접 주차",
         "stallCount": 3,
         "powerKilowattL": 6
-    }},
+    },
     "dc_custom_3": {
         "type": "destinationcharger",
         "statId": "dc_custom_3",
@@ -1118,5 +1118,19 @@
         "accessHours": "고객용, 직접 주차",
         "stallCount": 1,
         "powerKilowattL": null
+    },
+    "dc_custom_4": {
+        "type": "destinationcharger",
+        "statId": "dc_custom_4",
+        "statNm": "스테이폴리오 - 눈먼고래",
+        "bnm": "데스티네이션차저",
+        "lat": 33.5386175,
+        "lng": 126.6346312,
+        "addr": "제주 제주시 조천읍 조천7길 19-12",
+        "phone": "1670-4948",
+        "webSite": "https://www.blindwhale.co.k",
+        "accessHours": "고객용, 직접 주차",
+        "stallCount": 1,
+        "powerKilowattL": 7
     }
 }
