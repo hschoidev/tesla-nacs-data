@@ -1504,6 +1504,12 @@
             "statNm": "서천휴게소(서울)",
             "url": "https://map.naver.com/p/entry/place/13503801?c=18.35,0,0,0,adh&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202608271543%26locale%3Dko%26svcName%3Dmap_pcv5&p=hqzwk1OSmStDESaTWidz3g,138.39,-3.63,80,Float",
             "surl": "https://naver.me/x8k0JDzY"
+        },
+        "ST601535": {
+            "statId": "ST601535",
+            "statNm": "벌곡휴게소(논산)",
+            "url": "https://map.naver.com/p/entry/place/13281605?c=18.35,0,0,0,adh&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202608271547%26locale%3Dko%26svcName%3Dmap_pcv5&p=bqE7J9e_5nSDNVcP8xWa-g,-12.27,-11.25,80,Float",
+            "surl": "https://naver.me/xRgfDgzL"
         }
     }
 }
