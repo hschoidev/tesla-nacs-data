@@ -1492,6 +1492,12 @@
             "statNm": "영덕휴게소(영덕)",
             "url": "https://map.naver.com/p/search/%EC%98%81%EB%8D%95%ED%9C%B4%EA%B2%8C%EC%86%8C?c=16.30,0,0,0,adh&p=98pkvzhHl3-WY07pM0XzGg,-119.24,-20.73,80,Float",
             "surl": "https://naver.me/5ECbrE7j"
+        },
+        "ST601534": {
+            "statId": "ST601534",
+            "statNm": "대천휴게소(서울)",
+            "url": "https://map.naver.com/p/entry/place/11571687?c=18.79,0,0,0,adh&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202608271538%26locale%3Dko%26svcName%3Dmap_pcv5&p=I15VaJNUDeoY1nHr9-d7-Q,78.07,3.76,55.94,Float",
+            "surl": "https://naver.me/x1uFsg7c"
         }
     }
 }
