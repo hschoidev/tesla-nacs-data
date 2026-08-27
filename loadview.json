@@ -1498,6 +1498,12 @@
             "statNm": "대천휴게소(서울)",
             "url": "https://map.naver.com/p/entry/place/11571687?c=18.79,0,0,0,adh&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202608271538%26locale%3Dko%26svcName%3Dmap_pcv5&p=I15VaJNUDeoY1nHr9-d7-Q,78.07,3.76,55.94,Float",
             "surl": "https://naver.me/x1uFsg7c"
+        },
+        "ST601536": {
+            "statId": "ST601536",
+            "statNm": "서천휴게소(서울)",
+            "url": "https://map.naver.com/p/entry/place/13503801?c=18.35,0,0,0,adh&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202608271543%26locale%3Dko%26svcName%3Dmap_pcv5&p=hqzwk1OSmStDESaTWidz3g,138.39,-3.63,80,Float",
+            "surl": "https://naver.me/x8k0JDzY"
         }
     }
 }
