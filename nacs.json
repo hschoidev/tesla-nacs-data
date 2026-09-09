@@ -62,6 +62,9 @@
   "SGMAC024": {
     "label": "bottom"
   },
+  "SGMAC060": {
+    "note": "국도 위치, 상서(하이패스)IC 또는 신탄진IC 이용"
+  },
   "CV001364": {
     "label": "bottom"
   },
