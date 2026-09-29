@@ -1546,6 +1546,12 @@
             "statNm": "대천휴게소(목포)",
             "url": "https://map.naver.com/p/entry/place/11671402?c=18.35,0,0,0,adh&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202609300823%26locale%3Dko%26svcName%3Dmap_pcv5&p=g4P-hjKGTIWKIFlmF5RURw,-42.52,-13.55,80,Float",
             "surl": "https://naver.me/xtNpQ1Zr"
+        },
+        "ST601499": {
+            "statId": "ST601499",
+            "statNm": "오토스테이 수서점",
+            "url": "https://map.naver.com/p/entry/place/1108123754?c=19.27,0,0,0,adh&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202609300846%26locale%3Dko%26svcName%3Dmap_pcv5&p=Wnmkv1_E-QCGzQkiIQ_Whg,-49.27,0.74,80,Float",
+            "surl": "https://naver.me/xrzQsdWx"
         }
     }
 }
