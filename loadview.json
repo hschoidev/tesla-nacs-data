@@ -1534,6 +1534,18 @@
             "statNm": "정읍녹두장군 휴게소(천안)",
             "url": "https://map.naver.com/p/entry/place/17568743?c=17.62,0,0,0,adh&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202609221128%26locale%3Dko%26svcName%3Dmap_pcv5&p=eVuTYAJpWoPipPyXQeY6oQ,-166.78,-6.64,80,Float",
             "surl": "https://naver.me/GCJssHxv"
+        },
+        "ST601843": {
+            "statId": "ST601843",
+            "statNm": "홍성휴게소(목포)",
+            "url": "https://map.naver.com/p/entry/place/11830884?c=18.35,0,0,0,adh&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202609300820%26locale%3Dko%26svcName%3Dmap_pcv5&p=XHzVTpSJCwC01EYiBQIuVQ,-114.16,-6.53,80,Float",
+            "surl": "https://naver.me/5hoaT9bs"
+        },
+        "ST601533": {
+            "statId": "ST601533",
+            "statNm": "대천휴게소(목포)",
+            "url": "https://map.naver.com/p/entry/place/11671402?c=18.35,0,0,0,adh&placePath=%2Fhome%3Ffrom%3Dmap%26fromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202609300823%26locale%3Dko%26svcName%3Dmap_pcv5&p=g4P-hjKGTIWKIFlmF5RURw,-42.52,-13.55,80,Float",
+            "surl": "https://naver.me/xtNpQ1Zr"
         }
     }
 }
